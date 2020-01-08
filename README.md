@@ -12,3 +12,21 @@ https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
 https://paperswithcode.com/task/visual-question-answering
 
 https://vqa.cloudcv.org/
+
+## Research paper we are referring to: 
+https://arxiv.org/abs/1704.03162
+
+PDF : https://arxiv.org/pdf/1704.03162.pdf
+
+## Dataset we are using:
+
+### VQA v2.0
+It consists of : 
+
+- Real
+  - 82,783 MS COCO training images, 40,504 MS COCO validation images and 81,434 MS COCO testing images (images are obtained from [MS COCO website] (http://mscoco.org/dataset/#download))
+  - 443,757 questions for training, 214,354 questions for validation and 447,793 questions for testing
+  - 4,437,570 answers for training and 2,143,540 answers for validation (10 per question)
+  
+- There is only one type of task - 
+Open-ended task
