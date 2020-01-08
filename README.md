@@ -15,7 +15,8 @@ https://vqa.cloudcv.org/
 
 ## Dataset we are using:
 
-### VQA v2.0
+### VQA v2.0 
+(https://github.com/GT-Vision-Lab/VQA/blob/master/README.md)
 It consists of : 
 
 - Real
