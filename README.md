@@ -40,6 +40,8 @@ https://github.com/Cyanogenoid/vqa-counting/tree/master/vqa-v2
 https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch
 
 ## Models
+https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch has reimplemented several approaches using the following models: 
+
 1. Bottom up and Top Down Attention
 https://arxiv.org/abs/1707.07998
 Uses a combined top-down and bottom-up attention mechanism to calculate attention at object level and over other notable regions of the image. The bottom-up mechanism is based on Faster R-CNN and proposes image regions, each with an associated feature vector while the top-down mechanism determines feature weightings. 
