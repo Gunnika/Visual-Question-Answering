@@ -35,6 +35,9 @@ PDF : https://arxiv.org/pdf/1704.03162.pdf
 ## Base Code:
 https://github.com/Cyanogenoid/pytorch-vqa
 
-Improvements over this code : https://github.com/Cyanogenoid/vqa-counting/tree/master/vqa-v2
+Improvements over this code : 
+https://github.com/Cyanogenoid/vqa-counting/tree/master/vqa-v2
+https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch
+
 
 
