@@ -2,3 +2,4 @@
 VQA/
 Dataset/
 __pycache__/
+Files/bert_small.pkl
