@@ -33,6 +33,10 @@ https://arxiv.org/abs/1704.03162
 PDF : https://arxiv.org/pdf/1704.03162.pdf
 
 ## Base Code:
+
+https://github.com/iamaaditya/VQA_Demo
+https://github.com/iamaaditya/VQA_Keras
+
 https://github.com/Cyanogenoid/pytorch-vqa
 https://github.com/nithinraok/VisualQuestion_VQA
 
