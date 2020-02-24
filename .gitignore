@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 VQA/
 Dataset/
+__pycache__/
