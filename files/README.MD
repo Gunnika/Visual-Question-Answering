@@ -1,5 +1,5 @@
 Questions picked up from the file v2_OpenEnded_mscoco_train2014_questions.json were converted to a dataframe in vocab_new.ipynb. The first 10k rows of this df are contained in the questionsdf.csv file. It contains questions for 1919 images.  
-Of these 1919 images, 6 were greyscale (ids contained in excluded_image_ids.npy). These were excluded from the sample dataset. 
+Of these 1919 images, 6 were greyscale (ids contained in excluded_image_ids.npy). These were excluded from the sample dataset of 1913 images. 
 Image vectors for images in the sample dataset were then generated. Thus:  
   
 1. excluded image_ids.py: IDs of 6 greyscale images (out of initial 1919) that were excluded from sample dataset  
