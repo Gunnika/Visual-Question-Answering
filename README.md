@@ -1,17 +1,16 @@
 # Visual-Question-Answering
 
-## Datasets : 
-https://visualqa.org/download.html,
+## Working:
+Main file: Integrated_model.ipynb
 
-https://arxiv.org/abs/1905.13648,
+Requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
-https://tryolabs.com/blog/2018/03/01/introduction-to-visual-question-answering/
+and 
 
-https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
+Bert.pkl from :
+https://drive.google.com/file/d/1rStLsUbgAC1uU7Mai5X_-c0qJPxnJk63/view?usp=sharing
 
-https://paperswithcode.com/task/visual-question-answering
-
-https://vqa.cloudcv.org/
+both of these files need to be placed in the Files folder.
 
 ## Dataset we are using:
 
@@ -27,6 +26,7 @@ It consists of :
 - There is only one type of task - 
 Open-ended task
 
+
 ## Research paper we are referring to: 
 https://arxiv.org/abs/1704.03162
 
@@ -38,6 +38,24 @@ https://github.com/iamaaditya/VQA_Demo
 
 https://github.com/iamaaditya/VQA_Keras
 
+
+## Other Datasets : 
+https://visualqa.org/download.html,
+
+https://arxiv.org/abs/1905.13648,
+
+https://tryolabs.com/blog/2018/03/01/introduction-to-visual-question-answering/
+
+https://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
+
+https://paperswithcode.com/task/visual-question-answering
+
+https://vqa.cloudcv.org/
+
+
+## Useful Resources:
+https://keras.io/getting-started/functional-api-guide/
+
 https://github.com/Cyanogenoid/pytorch-vqa
 
 https://github.com/nithinraok/VisualQuestion_VQA
@@ -47,9 +65,6 @@ Improvements over this code :
 https://github.com/Cyanogenoid/vqa-counting/tree/master/vqa-v2
 
 https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch
-
-## Useful Resources:
-https://keras.io/getting-started/functional-api-guide/
 
 ## Models
 https://github.com/KaihuaTang/VQA2.0-Recent-Approachs-2018.pytorch has reimplemented several approaches using the following models: 
@@ -73,14 +88,3 @@ VQA models thus far have struggled with counting objects in natural images.This 
 5. Learning Conditioned Graph Structures
 https://arxiv.org/abs/1806.07243
 Very few VQA models rely on higher level image representations capable of capturing semantic and spatial relationships. This paper proposes a graph-based approach that combines a graph learner module, which learns a question specific graph representation of the input image, with the recent concept of graph convolutions, aiming to learn image representations that capture question specific interactions. It uses VQA v2 dataset using a simple baseline architecture enhanced by the proposed graph learner module. 
-
-
-
-## Integrated model: 
-requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
-other files are contained in Files folder of repo.
-
-## Bert.pkl
-https://drive.google.com/file/d/1rStLsUbgAC1uU7Mai5X_-c0qJPxnJk63/view?usp=sharing
-
-
