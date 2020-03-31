@@ -1,12 +1,16 @@
 # Visual-Question-Answering
 
-## Integrated model: 
+## Working:
+Main file: Integrated model.ipynb
+
 Requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
-Other files are contained in Files folder of repo.
+and 
 
-## Bert.pkl
+Bert.pkl from :
 https://drive.google.com/file/d/1rStLsUbgAC1uU7Mai5X_-c0qJPxnJk63/view?usp=sharing
+
+both of these files need to be placed in the Files folder.
 
 ## Dataset we are using:
 
