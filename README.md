@@ -80,4 +80,7 @@ Very few VQA models rely on higher level image representations capable of captur
 requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 other files are contained in Files folder of repo.
 
+## Bert.pkl
+https://drive.google.com/file/d/1rStLsUbgAC1uU7Mai5X_-c0qJPxnJk63/view?usp=sharing
+
 
