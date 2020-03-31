@@ -75,3 +75,9 @@ https://arxiv.org/abs/1806.07243
 Very few VQA models rely on higher level image representations capable of capturing semantic and spatial relationships. This paper proposes a graph-based approach that combines a graph learner module, which learns a question specific graph representation of the input image, with the recent concept of graph convolutions, aiming to learn image representations that capture question specific interactions. It uses VQA v2 dataset using a simple baseline architecture enhanced by the proposed graph learner module. 
 
 
+
+## Integrated model: 
+requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
+other files are contained in Files folder of repo.
+
+
