@@ -1,7 +1,7 @@
 # Visual-Question-Answering
 
 ## Working:
-Main file: Integrated_model.ipynb
+Main file: VQA_model.ipynb
 
 Requires annotations file from: https://s3.amazonaws.com/cvmlp/vqa/mscoco/vqa/v2_Annotations_Train_mscoco.zip
 
