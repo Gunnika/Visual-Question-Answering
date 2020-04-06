@@ -3,3 +3,7 @@ VQA/
 Dataset/
 __pycache__/
 Files/bert_small.pkl
+Files/bert_test.pkl
+v2_Annotations_Train_mscoco/
+vocab_answers.txt
+train_sample/

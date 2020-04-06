@@ -1,0 +1,3501 @@
+,image_id,question,question_id
+0,262144,Is the ball flying towards the batter?,262144000
+1,262144,What sport is this?,262144001
+2,262144,Can you see the ball?,262144002
+3,262144,Is the pitcher wearing a hat?,262144003
+4,262144,Will he catch the ball in time?,262144004
+5,262144,What credit card company is on the banner in the background?,262144005
+6,1,What is the fence made of?,1000
+7,1,What color is the truck?,1001
+8,1,What service does the car parked at the curb provide?,1002
+14,131079,Is it raining?,131079000
+15,131079,Is the landing gear down?,131079001
+16,131079,Is this airplane taking off or landing?,131079002
+38,377092,How many contrails are there?,377092000
+39,377092,What are the lines in the sky?,377092001
+40,377092,Is the plane going to crash?,377092002
+41,16,What plate is the player standing at?,16000
+42,16,How old is the boy  batting?,16001
+43,16,What is on the boy's head?,16002
+44,16,What color is the man's helmet:?,16003
+45,16,What is the players number?,16004
+46,16,Did he hit the ball?,16005
+47,16,Is there a number 22?,16006
+48,16,Is it a hit?,16007
+59,131091,Would you be afraid of getting mugged here?,131091000
+60,131091,Is it sunny out?,131091001
+61,131091,Is there lighting?,131091002
+77,393239,What kind of animal is this?,393239000
+78,393239,Is there any reflection of zebra in water?,393239001
+79,393239,Is this the watering hole?,393239002
+86,262169,Is that a steer skull in the background?,262169000
+87,262169,Where is the elephant's trunk?,262169001
+88,262169,What is the fence made of?,262169002
+89,262169,What kind of animal is this?,262169003
+90,262169,How tall is the fence?,262169004
+91,262169,Does this animal live in the wild?,262169005
+92,262169,Is there a baby elephant?,262169006
+93,262169,Is there poop on the ground?,262169007
+110,131102,Are the window wipers touching?,131102000
+111,131102,What city does this fire truck belong to?,131102001
+112,131102,What color is this truck?,131102002
+113,131102,Is this a police truck?,131102003
+114,393247,Where is this animal commonly found?,393247000
+115,393247,What color is it's nose?,393247001
+116,393247,Is there any grass on the ground?,393247002
+124,524322,What season is shown?,524322000
+125,524322,What color is the back door?,524322001
+126,524322,What area is surrounding the train?,524322002
+127,546139,Is the man happy?,546139000
+128,546139,Do you find any paintings?,546139001
+129,546139,Is he on a cell phone?,546139002
+133,109233,Are they fragile?,109233000
+134,109233,Is the fire hydrant broken?,109233001
+135,109233,What is this made of?,109233002
+136,109233,What is the dark area in the background?,109233003
+137,109233,Is there a tube of toothpaste?,109233004
+138,109233,What color is the fire hydrant?,109233005
+139,109233,Is the hydrant dry?,109233006
+140,109233,Is this in color?,109233007
+141,109233,Why is the fire hydrant open?,109233008
+142,109233,Is it daytime?,109233009
+147,262186,Where are those cats at?,262186000
+148,262186,How many cats are in the scene?,262186001
+149,262186,Are the two cats fighting?,262186002
+150,262186,Are all of the cats the same color?,262186003
+151,262186,Is there a red car?,262186004
+161,546141,Where are the knives located relative to the plate?,546141000
+162,546141,Has a plate been made yet?,546141001
+163,546141,What is the pattern on the tablecloth?,546141002
+164,546141,How many silver forks are there?,546141003
+165,546141,Is that wine in the background?,546141004
+166,546141,Are there bananas?,546141005
+167,546141,What is in the white and blue container?,546141006
+168,546141,Where is the blue and white checkered cloth?,546141007
+169,546141,What food is in on the plates?,546141008
+170,546141,Is this in a restaurant?,546141009
+177,131121,Did the cow knock down the building?,131121000
+178,131121,Is the cow running?,131121001
+179,131121,Does the cow have horns?,131121002
+180,131121,Is the house on fire?,131121003
+181,131125,What is the food inside of?,131125000
+182,131125,Is there fruit in this dinner?,131125001
+183,131125,What color is the fork?,131125002
+184,57,What color is the man's shirt?,57000
+185,57,Is the man going to fall down?,57001
+186,57,What sport is being played?,57002
+187,57,What brand is the racket?,57003
+188,57,What color is the guy's shirt?,57004
+189,57,What is the surface of the court made of?,57005
+190,57,Is he serving?,57006
+207,262209,What is this sport?,262209000
+208,262209,Is he falling?,262209001
+209,262209,Are the man's hands raised?,262209002
+210,262209,What is the man skateboarding on?,262209003
+211,262209,Is it daytime?,262209004
+212,569130,Is the building behind the sign old?,569130000
+213,569130,Where is the arrow pointing?,569130001
+214,569130,"Which way is the ""one way"" sign pointing?",569130002
+215,569130,How many signs are attached to the pole?,569130003
+216,569130,What Avenue is that?,569130004
+217,69,How many people are wearing glasses?,69000
+218,69,What is the elderly man pouring?,69001
+219,69,What color is the woman's sweater?,69002
+224,306038,Is there a cabinet under the sink?,306038000
+225,306038,Is the toilet lid down?,306038001
+226,306038,What is the wall made of?,306038002
+227,306038,How do you flush?,306038003
+228,306038,Is this a normal sink fixture?,306038004
+229,306038,Is there poop on the floor?,306038005
+230,306038,Can you see a shower curtain?,306038006
+231,306038,Does this bathroom need some remodeling?,306038007
+232,306038,Is there a light switch?,306038008
+233,306038,Is the toilet seat down?,306038009
+234,306038,What color is the toilet?,306038010
+235,306038,How small is the bathroom?,306038011
+236,306038,What room is this?,306038012
+237,306038,Is the toilet seat up or down?,306038013
+238,306038,Is the mirror surrounded by lighting?,306038014
+239,306038,Is it daytime?,306038015
+240,306038,Did someone graffiti the toilet lid?,306038016
+241,524362,What type of fruits are there?,524362000
+242,524362,What kind of fruit is shown?,524362001
+243,524362,What is the yellow fruit?,524362002
+244,524362,What is the orange fruit called?,524362003
+253,524365,Is this the natural habitat for the zebra?,524365000
+254,524365,Is the animals ears forward?,524365001
+255,524365,Is the grass green?,524365002
+256,524365,How many zebras are there?,524365003
+257,524365,How many animals?,524365004
+258,524365,What is the giraffe eating?,524365005
+259,524365,What kind of animal is this?,524365006
+260,524365,How many zebras are there in this picture?,524365007
+261,524365,Will the zebra bump into the branches?,524365008
+262,131150,What is the wall and ceiling made out of?,131150000
+263,131150,What room is pictured here?,131150001
+264,131150,What material is the large pipe leaning against the wall made from?,131150002
+265,80,Is this the zebra's natural habitat?,80000
+266,80,Is this animal an adult?,80001
+267,80,What kind of animal is shown in the image?,80002
+268,80,Are there any trees behind the fence?,80003
+289,262158,What breed of dog does this appear to be?,262158000
+290,262158,What is the woman doing to the dog?,262158001
+291,262158,Is this a happy dog?,262158002
+292,131158,What's the board with wheels called?,131158000
+293,131158,What type of pants are pictured?,131158001
+294,131158,What sport is this?,131158002
+301,393305,How many ways have to stop?,393305000
+302,393305,IS it sunny?,393305001
+303,393305,Does she have on sunglasses?,393305002
+304,90,Is this a rich neighborhood?,90000
+305,90,What encloses the cows from leaving?,90001
+306,90,What animal is in the picture?,90002
+307,90,What kind of animals are shown?,90003
+308,90,Is the cow resting?,90004
+309,90,What is the cow doing?,90005
+310,90,Are there any clouds in the sky?,90006
+311,90,What color is the grass?,90007
+312,90,What kind of animals are in front of the cows?,90008
+313,90,Are these lambs?,90009
+314,90,What color is that cow?,90010
+315,90,What type of tree is this?,90011
+316,3492,What room is this?,3492000
+317,3492,Is the lamp on?,3492001
+318,3492,How many windows are there?,3492002
+319,3492,Is this room clean?,3492003
+320,3492,How many seats are available?,3492004
+321,3492,Is this a hotel?,3492005
+351,393318,What food is next to the cake?,393318000
+352,393318,Is the candle on the table lit?,393318001
+353,393318,What is sticking out of the bundt cake?,393318002
+354,131175,What color is the wallpaper?,131175000
+355,131175,Is this modern furniture?,131175001
+356,131175,Is this a doll house?,131175002
+357,131177,Is this dog a puppy?,131177000
+358,131177,Is any part of a person in the picture?,131177001
+359,131177,Is the dog wet?,131177002
+360,106,What type of owl is this?,106000
+361,106,What color are the water containers?,106001
+362,106,What plant is growing out of the ground?,106002
+363,108,What is the color of the front of the train?,108000
+364,108,What does a train ride on?,108001
+365,108,Is there another train coming?,108002
+366,458770,Is the sidewalk cracked?,458770000
+367,458770,What is the man wearing on his head?,458770001
+368,458770,What color are the man's clothes?,458770002
+403,393334,Is the man asleep?,393334000
+404,393334,Is the TV in the image turned on?,393334001
+405,393334,What is in the man's right hand?,393334002
+417,131194,How many eyes are painted on the fire hydrant?,131194000
+418,131194,Does the fire hydrant get peed on by dogs a lot?,131194001
+419,131194,Where is the fire hydrant?,131194002
+431,131199,What is the weather?,131199000
+432,131199,What color is the traffic light showing?,131199001
+433,131199,Where was this photo taken?,131199002
+434,131199,Is there a cow in the road?,131199003
+435,131199,Where is the nearest bank?,131199004
+436,131199,Are these cars parked?,131199005
+437,131199,What is the woman wearing on her head?,131199006
+438,131199,What color is the umbrella?,131199007
+439,131199,Where are they going?,131199008
+440,131199,Where is the person standing?,131199009
+441,131199,Is the street crowded with people?,131199010
+442,131199,How many license plates are visible?,131199011
+443,131199,Is this a sculpture?,131199012
+444,131199,Is the street empty?,131199013
+445,131199,What language is the advertising in?,131199014
+446,131199,What information is on the sign?,131199015
+447,131199,How many people are crossing the street?,131199016
+448,131199,What filter was used on this picture?,131199017
+449,131199,Is it in color?,131199018
+450,131199,Is the person walking in white pants a man?,131199019
+451,131199,What pattern is on the umbrella?,131199020
+452,131199,What kind of language is on the signs?,131199021
+453,131199,What is the girl doing?,131199022
+454,131199,Can you park in front of Xin dian Gold and Silver Place?,131199023
+455,131199,What country could this be?,131199024
+456,131199,What is the name of the business shown by the spraying water?,131199025
+457,131199,What is advertised in the left window?,131199026
+458,131199,What is a source of water?,131199027
+459,131199,Are any cars in motion?,131199028
+460,131199,Is it raining?,131199029
+461,131199,How many umbrellas are there?,131199030
+462,131199,What season is it?,131199031
+463,131199,What color is the small car?,131199032
+464,131199,What is spraying water?,131199033
+465,262272,Are they making a collage?,262272000
+466,262272,How many markers are there?,262272001
+467,262272,What color is the scissors grip?,262272002
+484,524422,Are there tombstone's on the cake?,524422000
+485,524422,What does the tombstone on the right say?,524422001
+486,524422,What kind of scene is on the cake?,524422002
+524,262282,Is this bus parked?,262282000
+525,262282,How many levels does this bus have?,262282001
+526,262282,Is the bus in service?,262282002
+527,262282,What number is on the front of the blue bus?,262282003
+528,262282,"Why is the bus ""sorry?""?",262282004
+529,262282,Is the yellow bus vintage or modern?,262282005
+530,262282,What color is this bus?,262282006
+531,262282,What is the number on the front of the bus?,262282007
+547,436930,Is this a brick wall?,436930000
+548,436930,Is this considered floor to ceiling tile?,436930001
+549,436930,What color is the floor?,436930002
+550,436930,How many metal chairs are there?,436930003
+551,436930,Is the bathroom clean?,436930004
+552,436930,Is the room well lit?,436930005
+553,436930,Why is there a toilet?,436930006
+554,415085,What website is being shown on the green tarp?,415085000
+555,415085,What is the wristband?,415085001
+556,415085,What is in the boys hands?,415085002
+557,415085,What color is the man's shirt?,415085003
+558,415085,What is the swing?,415085004
+559,415085,What game is he playing?,415085005
+560,415085,What game is being played?,415085006
+561,415085,Which hand is the player holding the racket in?,415085007
+562,415085,What color is the man's shoes?,415085008
+563,415085,What is the man's name?,415085009
+564,262291,Why is the man standing in the middle of the road?,262291000
+565,262291,What color is the man's shirt?,262291001
+566,262291,Is this a busy road?,262291002
+590,393368,What is the man in the orange hat carrying on his back?,393368000
+591,393368,Are they selling any chips?,393368001
+592,393368,What color suit is this person wearing?,393368002
+593,393368,What color is the lettering on the business sign?,393368003
+594,393368,Is it in America?,393368004
+595,393368,Are they on the street?,393368005
+606,155,What type of material is the bear on?,155000
+607,155,Is the bear wearing a scarf?,155001
+608,155,Is this a real bear?,155002
+609,209502,What does the shop with the blue awning sell?,209502000
+610,209502,Is the train in motion?,209502001
+611,209502,Is this an office park?,209502002
+612,209502,Is the street light on?,209502003
+613,209502,Is the sidewalk tile or concrete?,209502004
+614,209502,Is the building one story tall?,209502005
+615,209502,Does the train stop close to the building?,209502006
+616,209502,Is there a bike on the platform?,209502007
+617,209502,Why is the table in the middle of the road?,209502008
+618,209502,What newspaper could you buy as you pass by on the sidewalk?,209502009
+619,209502,What is at the end of the sidewalk?,209502010
+620,209502,How many people are on the sidewalk?,209502011
+621,209502,Is there a cart on the sidewalk?,209502012
+622,209502,Is this a shopping mall?,209502013
+623,209502,Does the picture show a driveway?,209502014
+624,209502,Are there any bikes in this photo?,209502015
+625,209502,What color is the train?,209502016
+626,209502,Are there people in the truck?,209502017
+627,209502,Is the sun bright?,209502018
+628,209502,Is there anyone riding a bicycle?,209502019
+629,209502,Are there 2 bikes near the pole?,209502020
+630,209502,Is it safe to cross the street?,209502021
+631,209502,What is the sidewalk made of?,209502022
+632,131229,Is the motorcycle moving?,131229000
+633,131229,Why are the people watching the motorcycle?,131229001
+634,131229,What color is the motorcycle tank?,131229002
+638,161,How many types of vegetables are on the plate?,161000
+639,161,Does this look greasy?,161001
+640,161,Is this a breakfast or lunch plate?,161002
+641,161,Is there cabbage on the plate?,161003
+642,161,What kind of food is this?,161004
+643,161,What color is the sauce?,161005
+651,524455,Is it night in this photo?,524455000
+652,524455,What is in the bowel?,524455001
+653,524455,How many men?,524455002
+654,524455,What color is the wall behind the desk?,524455003
+655,524455,What are they drinking?,524455004
+656,524455,Are they eating Mexican?,524455005
+657,171,What is in the man's hands?,171000
+658,171,What piece of clothing is this man touching?,171001
+659,171,What color is his skin?,171002
+660,171,Is the man losing his hair?,171003
+661,171,Is this picture old?,171004
+662,171,"Is the man going to say ""Deal with it""?",171005
+663,171,Is this a man or woman?,171006
+664,171,What is the man holding to his ear?,171007
+665,171,What is this guy holding with his left hand?,171008
+666,171,Was this taken recently?,171009
+667,171,What color is his hair?,171010
+668,171,What color is his tie?,171011
+669,171,What does the writing say?,171012
+670,171,Does this man have a beard?,171013
+671,171,Is this guy a dork?,171014
+672,171,Is the jacket modern looking?,171015
+673,171,Does the man have a hat on?,171016
+674,171,What is the man holding?,171017
+675,171,What is he holding in his hand?,171018
+676,171,What era is this picture from?,171019
+677,171,What is the name of the photographer?,171020
+678,171,Is that nail polish in the fingernails?,171021
+679,524460,Is that a radio on the floor?,524460000
+680,524460,Is this a bedroom?,524460001
+681,524460,What is the rolling?,524460002
+682,524460,What is he stepping on?,524460003
+689,524462,Why does the giraffe look so angry?,524462000
+690,524462,Is that a giraffe?,524462001
+691,524462,Is the man holding food for the giraffe?,524462002
+697,178,How many people are on each motorcycle?,178000
+698,178,Is there a building in the background?,178001
+699,178,How many motorcycles are in the picture?,178002
+700,178,How many motorcycles are on the street?,178003
+701,178,Is the sun coming up or going down?,178004
+702,178,Is there a car on the road?,178005
+707,180,What animal is this?,180000
+708,180,Is the bear wet?,180001
+709,180,Is the bear looking at the camera?,180002
+710,180,Is the bear eating?,180003
+711,393397,Is this a commercial jet?,393397000
+712,393397,How many wheels does the plan have?,393397001
+713,393397,What is the main color of the plane?,393397002
+714,393397,What is under the front wheels?,393397003
+719,183,What is in the glass?,183000
+720,183,What kind of food is on the plate?,183001
+721,183,What is the brand name of the ketchup on the table?,183002
+722,262328,Is it daytime?,262328000
+723,262328,What does the boy have in his mouth?,262328001
+724,262328,What utensil is he using?,262328002
+725,262328,What dessert is pictured on the plate?,262328003
+726,262328,Where is the baby at?,262328004
+727,262328,What food is on this kid's plate?,262328005
+728,262328,What is the boy holding?,262328006
+729,262328,What size pants is this person wearing?,262328007
+730,262328,How many sprinkles are there?,262328008
+731,262328,What is the pattern of the fabric in the highchair?,262328009
+732,262328,Where is the cup?,262328010
+733,262328,What is the baby eating?,262328011
+734,262328,Is the baby eating vegetables?,262328012
+735,262328,Is there a rocket on the boy's shirt?,262328013
+736,262328,How old is this baby?,262328014
+737,262328,What is the little boy eating?,262328015
+738,262328,Is it the boy's birthday?,262328016
+739,262328,What is the child eating?,262328017
+740,262328,What is the boy doing?,262328018
+741,262328,Is he sick?,262328019
+746,188,What is this controller used for?,188000
+747,188,What button is next to the power button?,188001
+748,188,How many controllers are in the picture?,188002
+749,188,What word is on the bottom of the gray remote?,188003
+750,188,How many remote controls are there?,188004
+751,191,What is the company's website?,191000
+752,191,Is this plane landing or lifting off?,191001
+753,191,What is coming out of the plane?,191002
+754,191,What is the emblem on the tail of the plane?,191003
+761,524481,What kind of baseball is he hitting?,524481000
+762,524481,What ethnicity is the boy?,524481001
+763,524481,What color is the ball?,524481002
+764,524482,Are they trying to fit all the kids in one bus?,524482000
+765,524482,Does this appear to be a heavy snow?,524482001
+766,524482,Is it snowing in the picture?,524482002
+767,524482,Is the sidewalk safe to walk on?,524482003
+768,524482,Are they getting on the bus?,524482004
+769,502475,What street is the cowboy riding down?,502475000
+770,502475,How many horses are there?,502475001
+771,502475,What color is this person's horse?,502475002
+772,502475,Is it in texas?,502475003
+781,131105,Is the game sold out?,131105000
+782,131105,Is someone up to bat?,131105001
+783,131105,Are the players in action?,131105002
+784,131105,Is there a large crowd?,131105003
+785,131105,What game is being played?,131105004
+786,131105,What sport is shown?,131105005
+787,131105,How many people are there?,131105006
+788,131105,What type of field is this?,131105007
+789,131105,What sport is this?,131105008
+790,131105,Is he up to the plate?,131105009
+791,131105,What game is being played here?,131105010
+792,131105,Are the stands packed?,131105011
+793,131105,What game are they playing?,131105012
+794,131105,What sport are they playing?,131105013
+795,131105,What game is this?,131105014
+796,131105,Is this game being played on a hot day?,131105015
+797,131105,Is  he playing baseball?,131105016
+798,131105,What is he holding?,131105017
+799,131105,Is the player right handed?,131105018
+800,131105,What is the round white item flying through the air?,131105019
+801,131105,Where is this person going to run to?,131105020
+802,131105,What sport is being played here?,131105021
+803,131105,What sport is being played?,131105022
+804,131105,Is there any room for more spectators here?,131105023
+805,131105,Is the man wearing a hat?,131105024
+806,131105,Is the stadium half full?,131105025
+807,131105,Are the stands crowded?,131105026
+808,131105,Is that a batter?,131105027
+809,131105,Is this a clay court?,131105028
+817,202,What country's flag is in the background?,202000
+818,202,How many men are on the podium?,202001
+819,202,What is the person talking into?,202002
+820,202,Is this an important person?,202003
+828,78568,Is this indoors?,78568000
+829,78568,What kind of surface is the counter?,78568001
+830,78568,Is this someone's home or a restaurant?,78568002
+834,212,What is the man on the skateboard doing?,212000
+835,212,What color are the leaves?,212001
+836,212,Are the men shirtless?,212002
+845,393431,Is it rush hour?,393431000
+846,393431,Is the train traveling fast?,393431001
+847,393431,Is the train moving?,393431002
+848,393431,Is this an advertisement?,393431003
+849,393431,What numbers are on the train?,393431004
+850,393431,What vehicle is pictured?,393431005
+851,393431,Should you fertilize these plants?,393431006
+852,393431,What colors are the train?,393431007
+853,458788,What can you see in the TV?,458788000
+854,458788,Where is the TV?,458788001
+855,458788,How many people are in the picture?,458788002
+856,458788,Where are they going?,458788003
+860,524509,What kind of horse is this?,524509000
+861,524509,Are people looking at it?,524509001
+862,524509,What animal is this?,524509002
+863,262370,What are they celebrating?,262370000
+864,262370,How many children are in the photo?,262370001
+865,262370,Is there a person here?,262370002
+866,262370,How many bowls are stacked?,262370003
+867,262370,Are the items for sale?,262370004
+868,393443,Is this a double sink?,393443000
+869,393443,Is this a home or a business?,393443001
+870,393443,Is the kitchen clean?,393443002
+871,262372,What does the green sign say?,262372000
+872,262372,What does the store in the front right sell?,262372001
+873,262372,Are right turns permitted?,262372002
+874,262372,Is this America?,262372003
+875,262372,Where was the pic taken?,262372004
+876,262372,Is this in America?,262372005
+877,262372,What color is the bus?,262372006
+878,262372,What restaurant sign is visible in the background?,262372007
+879,262372,What type of business is to the left?,262372008
+880,262372,Is there a lot of cars on the street?,262372009
+881,262372,What country is this?,262372010
+882,262372,Is the car moving?,262372011
+883,262372,What does the blue sign on the left mean?,262372012
+884,262372,Are there people on the sidewalk?,262372013
+885,262372,What country is this in?,262372014
+886,262372,What color is the second car?,262372015
+887,229,How many spots are visible?,229000
+888,229,How many giraffes are shown?,229001
+889,229,What kind of animal is shown?,229002
+890,229,Are there many animals in this picture?,229003
+896,87420,Is this a stadium?,87420000
+897,87420,How many people are wearing white sunglasses?,87420001
+898,87420,What team is on the hats?,87420002
+919,484460,What is standing on the laptop?,484460000
+920,484460,Is the cat comfortable?,484460001
+921,484460,Is there a glare on the computer?,484460002
+922,484460,What company made this laptop?,484460003
+926,279886,Is there enough paint to paint a room?,279886000
+927,279886,What is stacked up?,279886001
+928,279886,Are there a lot of sweet treats?,279886002
+929,279886,What is the woman pointing at?,279886003
+930,279886,Is this cake a birthday cake?,279886004
+931,279886,Is all the decorations on the table edible?,279886005
+932,279886,How many bottles are on the table?,279886006
+955,251,How high is the wave?,251000
+956,251,What is this person riding?,251001
+957,251,Is there anything that can be seen in the distance at all?,251002
+972,240341,Are they playing a video game?,240341000
+973,240341,Are some of the people clapping?,240341001
+974,240341,What color is the woman's dress?,240341002
+975,240341,Describe the look on the child's face?,240341003
+986,458795,How many planes?,458795000
+987,458795,How come only a few planes are giving off smoke?,458795001
+988,458795,What type of planes are these?,458795002
+989,458795,How many planes are visible?,458795003
+990,393476,Do people use these trains?,393476000
+991,393476,Would you find this station in a small rural city?,393476001
+992,393476,How many trains are visible?,393476002
+1017,131340,What is the color of the bear?,131340000
+1018,131340,What is the bear resting it's chin on?,131340001
+1019,131340,What color is the animal?,131340002
+1020,131340,What is the bear climbing over?,131340003
+1021,131340,What color is the bear?,131340004
+1022,131340,How many bears are there?,131340005
+1023,131340,What are the animals laying on?,131340006
+1034,131346,What foods are shown on the plate?,131346000
+1035,131346,What is the yellow fruit on the table?,131346001
+1036,131346,What meal of the day is this?,131346002
+1037,275,Is this a painting?,275000
+1038,275,Are the curtains open or shit?,275001
+1039,275,Where is the sailboat?,275002
+1040,276,Is this building of modern construction?,276000
+1041,276,Does the tower have a window?,276001
+1042,276,What does the sky look like?,276002
+1043,276,Is there a clock on the tower?,276003
+1044,276,What time is it?,276004
+1045,524566,Is this a cat?,524566000
+1046,524566,Is the tongue sticking out or not?,524566001
+1047,524566,What kind of dog is this?,524566002
+1059,546181,How many people are in the picture?,546181000
+1060,546181,What is the orange stuff in the pot?,546181001
+1061,546181,What is the chef doing?,546181002
+1073,393506,Is he getting ready to bat?,393506000
+1074,393506,Is the players name written in English?,393506001
+1075,393506,What is the number on his shirt?,393506002
+1100,284039,How many different shapes are the cakes?,284039000
+1101,284039,Is it healthy for one person to eat all of these cakes?,284039001
+1102,284039,What types of red berries are on the cakes?,284039002
+1103,524588,What ball is shown?,524588000
+1104,524588,Are these players all on the same team?,524588001
+1105,524588,What number is visible on the jersey?,524588002
+1112,436957,Are they pulling the boat?,436957000
+1113,436957,What are the letters and numbers on the side of the boat?,436957001
+1114,436957,Are these fishing boats?,436957002
+1135,262451,How many cows?,262451000
+1136,262451,What number tag is on the cow's ear?,262451001
+1137,262451,What kind of cows are these?,262451002
+1138,262451,Does the middle cow have a piece of grass hanging out of his mouth?,262451003
+1139,262451,Do you see blue in the picture?,262451004
+1146,393525,What is on the elephant's head?,393525000
+1147,393525,Is this a cupcake?,393525001
+1148,393525,What is the elephant sitting on?,393525002
+1153,393528,Is this a wooden fence?,393528000
+1154,393528,What is the fence made of?,393528001
+1155,393528,Is the giraffe escaping?,393528002
+1156,393528,Is that giraffe taller the fence?,393528003
+1166,393532,Will the batter strike?,393532000
+1167,393532,Is the person behind the batter going to catch or throw the ball?,393532001
+1168,393532,Is the man wearing a red cap?,393532002
+1169,393533,Is the elephant going to sleep?,393533000
+1170,393533,Where is the elephant running?,393533001
+1171,393533,Is this a black and white photo?,393533002
+1172,393533,Is the animal a pet?,393533003
+1173,393533,How many elephants are there?,393533004
+1174,393533,What is the animal shown?,393533005
+1175,318,What is in the center of the picture?,318000
+1176,318,What type of event is happening here?,318001
+1177,318,Is the woman in front sitting on a chair?,318002
+1186,131393,Is that a stir fry?,131393000
+1187,131393,What kind meat is in the stir-fry?,131393001
+1188,131393,What are the green vegetables called?,131393002
+1189,131396,What is the man playing?,131396000
+1190,131396,What is the guy wearing in his hand wrists?,131396001
+1191,131396,What color is his wristband?,131396002
+1192,131396,Is he serving the ball?,131396003
+1193,131396,Who is sponsoring this?,131396004
+1194,131396,Has he hit the ball?,131396005
+1198,524615,What do the signs mean?,524615000
+1199,524615,Is it daytime?,524615001
+1200,524615,Are they walking in the road?,524615002
+1219,131408,Is there any mirror on the wall?,131408000
+1220,131408,Is this a public restroom?,131408001
+1221,131408,How many towels?,131408002
+1222,131408,What color is the toilet seat?,131408003
+1223,131408,What room is this?,131408004
+1224,131408,What is this room used for?,131408005
+1225,131408,Is there a towel hanging in this bathroom?,131408006
+1226,458808,Do they have children?,458808000
+1227,458808,What is the largest appliance in the picture?,458808001
+1228,458808,Is there a box of alcohol in the background?,458808002
+1229,458808,Is this a new home?,458808003
+1230,131410,What color is the bus?,131410000
+1231,131410,Is there any trees behind the buildings?,131410001
+1232,131410,What color is the vehicle?,131410002
+1233,131410,What is the means of transportation in the picture?,131410003
+1240,480654,How many power lines are there?,480654000
+1241,480654,How many sets of tracks can be seen?,480654001
+1242,480654,What color is the train's windows?,480654002
+1243,480654,Are there clouds?,480654003
+1244,524630,Is he wearing a turtle tie?,524630000
+1245,524630,What can be seen in the background?,524630001
+1246,524630,Is this tie colored?,524630002
+1256,524632,What color are the chairs?,524632000
+1257,524632,What color is the floor?,524632001
+1258,524632,Is this inside a store?,524632002
+1259,524632,What is on the table?,524632003
+1260,345,How many children are in the picture?,345000
+1261,345,Is this a classroom?,345001
+1262,345,Are the boys all the same nationality?,345002
+1263,345,What color are they matching?,345003
+1264,322986,What type of animals are these?,322986000
+1265,322986,Are they the same height?,322986001
+1266,322986,Is there a rock in the foreground?,322986002
+1267,322986,Are those both males?,322986003
+1275,196667,What shape is  in the circle on the tail?,196667000
+1276,196667,What does this tail belong to?,196667001
+1277,196667,What is in the air?,196667002
+1278,196667,Is the sky clear?,196667003
+1279,196667,What are the orange items on the ground called?,196667004
+1280,196667,What color is the tail of the plane?,196667005
+1281,262500,What does the boy in red have on his left hand?,262500000
+1282,262500,Are the Tigers sponsored by McDonald's?,262500001
+1283,262500,What is the color of the hat on the left?,262500002
+1284,404920,How many colored stripes are there in the tower in the background?,404920000
+1285,404920,Are these animals in the zoo?,404920001
+1286,404920,Is there a boat in the photo?,404920002
+1287,404920,What kind of animal is this?,404920003
+1288,262503,Is this an outfit for playing tennis?,262503000
+1289,262503,Is this an outfit for a woman?,262503001
+1290,262503,Is that a snake shedding in the pocket?,262503002
+1299,393581,How many wheels can be seen on the vehicle?,393581000
+1300,393581,What are the numbers on the front of the bus?,393581001
+1301,393581,Is there any trees behind the bus?,393581002
+1302,393581,How many decks does the green bus have?,393581003
+1303,393581,Is this a public bus?,393581004
+1304,393581,Do you wanna ride on this bus?,393581005
+1305,393581,What color is the bus?,393581006
+1306,393581,What color is the bottom half of the bus?,393581007
+1307,393582,What is being parked here?,393582000
+1308,393582,Where are the boats?,393582001
+1309,393582,Are those palm trees?,393582002
+1310,393582,How many boats?,393582003
+1311,524349,What direction is the man looking?,524349000
+1312,524349,What is the natural wonder in the background?,524349001
+1313,524349,Is anyone wearing glasses?,524349002
+1314,524349,What is the woman using?,524349003
+1325,393589,What is in front of the tree?,393589000
+1326,393589,Is this at a park?,393589001
+1327,393589,Where was this picture taken?,393589002
+1328,131446,What room is this?,131446000
+1329,131446,Which one do you pee in?,131446001
+1330,131446,What color is the waste basket?,131446002
+1350,262520,Where does this man work?,262520000
+1351,262520,Is the man's head abnormally shaped?,262520001
+1352,262520,What does this man's facial expression say about his mood?,262520002
+1356,63,Is there an orange cone pictured?,63000
+1357,63,Does the man look angry?,63001
+1358,63,Is the man going to hit someone as well as the ball??,63002
+1397,364001,Does the woman's outfit indicate that she's going to be doing more than just playing a video game?,364001000
+1398,364001,What did the woman do earlier in the day?,364001001
+1399,364001,What is holding in her hand?,364001002
+1410,235685,What is the breed of dog?,235685000
+1411,235685,Is the dog sailing the boat?,235685001
+1412,235685,What is written in white on the boat?,235685002
+1413,235685,Is the dog being a lookout?,235685003
+1414,524687,Are all of the elephants in water?,524687000
+1415,524687,What animal is walking?,524687001
+1416,524687,Are any of those elephants male?,524687002
+1417,524687,What is the elephant doing?,524687003
+1418,524687,Are the animals eating?,524687004
+1419,524687,Are these animals dry?,524687005
+1420,524687,What are the elephants walking on?,524687006
+1457,131479,Is this a meeting for children?,131479000
+1458,131479,How many people are here?,131479001
+1459,131479,What are they standing behind?,131479002
+1460,408,Are her legs wide apart?,408000
+1461,408,Is the girl a skilled skier?,408001
+1462,408,What is she walking on?,408002
+1480,131141,What is the cake sitting on?,131141000
+1481,131141,Is this a vegan meal?,131141001
+1482,131141,Is this a dessert?,131141002
+1483,131141,What flavor is the cake?,131141003
+1484,131141,What is the utensil made of?,131141004
+1485,131141,What color is the cake?,131141005
+1486,131141,Is this a pie?,131141006
+1487,131141,How many layers are in this slice of cake?,131141007
+1488,131141,What kind of food is shown?,131141008
+1489,131141,Is the food almost gone?,131141009
+1490,131141,Is there fruit in the desert?,131141010
+1491,131141,Does this food look like it would taste good?,131141011
+1492,131141,What type of food is on the plate?,131141012
+1493,131141,What kind of cake is this?,131141013
+1494,131141,What food is this?,131141014
+1495,131141,Is there whipped cream on the cake?,131141015
+1496,131141,Is this a muffin?,131141016
+1497,131141,What flavor is the icing on this cake?,131141017
+1498,131141,What object is inside the food?,131141018
+1499,131141,What utensils are on the plate with the desert?,131141019
+1500,131141,What is the color of the food?,131141020
+1501,131141,What type of food is this?,131141021
+1502,131141,What color is the frosting?,131141022
+1503,131141,What are they eating?,131141023
+1504,131141,What utensil is on the plate?,131141024
+1505,131141,What food is pictured?,131141025
+1506,393632,Are the trains going in opposite directions?,393632000
+1507,393632,Is there a lot of rails?,393632001
+1508,393632,What color is the stop light?,393632002
+1509,393632,How many headlights are lit up on the front of the yellow train?,393632003
+1510,393632,Where are the two yellow trains?,393632004
+1533,262570,What is in the air?,262570000
+1534,262570,Is the person on water?,262570001
+1535,262570,What word is on the parachute?,262570002
+1536,262570,What's this sport called?,262570003
+1537,262570,How many boats on the water?,262570004
+1538,427,Is there any pad below the mouse?,427000
+1539,427,What kind of mouse?,427001
+1540,427,What brand of mouse is this?,427002
+1541,427,Is the mouse pad bright?,427003
+1542,427,What is the logo on the mouse?,427004
+1543,262573,Is this a bathroom?,262573000
+1544,262573,Are those towels folded?,262573001
+1545,262573,How many towels are there total?,262573002
+1546,262573,Are there blue tiles?,262573003
+1547,262574,What are the men wearing?,262574000
+1548,262574,Is this a party?,262574001
+1549,262574,Are they soldiers?,262574002
+1550,262574,Is the food handler wearing gloves?,262574003
+1551,262574,Are the men eating food?,262574004
+1552,262574,Is this at a food court?,262574005
+1581,524726,What is he riding?,524726000
+1582,524726,What color is the man's swimsuit?,524726001
+1583,524726,How high is the wave?,524726002
+1584,524726,What color is the man's shirt?,524726003
+1585,524726,About how many thoughts are going through his head right now?,524726004
+1596,131514,Did the red plant grow that way?,131514000
+1597,131514,Is the wreath inside or outside?,131514001
+1598,131514,What type of decorations are these?,131514002
+1599,131514,What are the two main colors here?,131514003
+1600,131515,How many cows are in this picture?,131515000
+1601,131515,Why are cows in the city?,131515001
+1602,131515,Are these cows contained?,131515002
+1610,262590,Is the plane kept on scaffolds?,262590000
+1611,262590,Is the man in the air?,262590001
+1612,262590,What color might the plane be if the photo was in color?,262590002
+1613,262590,What magazine is this photo from?,262590003
+1618,448,How many women are at the table?,448000
+1619,448,What animal is seen in the background?,448001
+1620,448,Are those women needy?,448002
+1621,448,What color are the flowers?,448003
+1622,262593,Does the player in white have red wristbands pulled up?,262593000
+1623,262593,Is the player in bounds?,262593001
+1624,262593,What sport are the players playing?,262593002
+1625,262593,What sport is this?,262593003
+1626,262593,What number is his jersey?,262593004
+1627,393666,What color is on the tip of the skiers poles?,393666000
+1628,393666,What is the man wearing on his head?,393666001
+1629,393666,What's the color of the skies?,393666002
+1630,393666,Can you see a shadow?,393666003
+1631,393666,Is she unbalanced?,393666004
+1632,393666,Is this person wearing a helmet?,393666005
+1633,393666,What color are his skis?,393666006
+1634,393666,What color is the hat of the skier?,393666007
+1635,393666,Is the skier a man or a woman?,393666008
+1636,393666,Are there shadows?,393666009
+1637,393666,Is this person wearing goggles or not?,393666010
+1638,393666,Are there any trees?,393666011
+1639,393666,What color is her jacket?,393666012
+1640,393666,What is the square thing attached to her jacket?,393666013
+1641,393666,What color are the boys skis?,393666014
+1642,393666,Is the person wearing glasses?,393666015
+1643,393666,How many visible skiers?,393666016
+1644,393666,Is this a man or woman?,393666017
+1645,393666,Is this a black and white picture?,393666018
+1646,524740,Where is this made?,524740000
+1647,524740,How many donuts are there?,524740001
+1648,524740,What type of donuts are these?,524740002
+1649,524740,What is the white buildup on the conveyor rods?,524740003
+1650,453,What are the people going to ride on?,453000
+1651,453,Is the girl in the black top thin?,453001
+1652,453,What is written on front of the bus?,453002
+1653,453,Where are the people standing?,453003
+1654,131526,What are being used as wheels for the hot dog?,131526000
+1655,131526,Is this a child's meal?,131526001
+1656,131526,What happened to her hair?,131526002
+1657,131526,What is the purpose of arranging food like this?,131526003
+1658,393671,What is on the cats head?,393671000
+1659,393671,In what kind of furniture is this person sitting?,393671001
+1660,393671,What is on the person's lap?,393671002
+1661,393671,How many cats are there?,393671003
+1662,393671,What type of book is open?,393671004
+1663,393671,Is the cat black and white?,393671005
+1664,393671,What kind of laptop is the person using?,393671006
+1665,456,Is the man standing up a good singer?,456000
+1666,456,How is the man with remote positioned?,456001
+1667,456,Are any lights on in the room?,456002
+1668,262601,How many leaves of asparagus in the pic?,262601000
+1669,262601,Is there mashed potatoes?,262601001
+1670,262601,Does this have a red sauce on it?,262601002
+1671,262601,What is green?,262601003
+1672,262601,What is the green vegetable?,262601004
+1673,262601,Is there a fork in this photo?,262601005
+1674,262601,Is the meat skinless?,262601006
+1675,262602,Where are the people?,262602000
+1676,262602,Are those clouds below the skier?,262602001
+1677,262602,Are there many people?,262602002
+1678,262602,Is there a mountain range in the horizon?,262602003
+1679,262602,Is this the ocean or a lake?,262602004
+1680,262602,Is anyone in this photo wearing an orange coat?,262602005
+1681,262602,What type of trees are these?,262602006
+1705,262611,What color is the motorcycle?,262611000
+1706,262611,Is there something hanging off of the bike?,262611001
+1707,262611,Is the motorcycle moving?,262611002
+1708,262611,What is lining the road?,262611003
+1709,262611,Is the vehicle moving?,262611004
+1710,262611,Is this a free range motorcycle?,262611005
+1711,262611,Is the person skating?,262611006
+1712,262611,Is there a paved road?,262611007
+1713,262611,Are the trees full of leaves?,262611008
+1714,262611,What mode of transportation is the man using?,262611009
+1715,262611,What color is the bike closest to the camera?,262611010
+1716,262611,Is this a dirt road?,262611011
+1717,262611,Is the bike parked?,262611012
+1732,131542,What is in the pan?,131542000
+1733,131542,What is the color of the man's skin?,131542001
+1734,131542,Is he showing off his fridge?,131542002
+1735,131542,What is the pot sitting on?,131542003
+1736,131542,What does the counter area nearest the camera resemble?,131542004
+1737,131542,What is he cutting?,131542005
+1742,349604,How many coffee cups?,349604000
+1743,349604,How many glasses on the table?,349604001
+1744,349604,What is on the plate?,349604002
+1745,349604,Is the laptop on or off?,349604003
+1752,131550,Where is this boy playing?,131550000
+1753,131550,What sport is the man playing?,131550001
+1754,131550,Is this a safe activity?,131550002
+1755,131550,Can you see the boy's head?,131550003
+1765,262625,What color is the wall?,262625000
+1766,262625,Are there more cups or more toothbrushes in the photo?,262625001
+1767,262625,Where is the mirror located?,262625002
+1768,262625,What color is the towel?,262625003
+1769,262625,Is there a towel hanging up?,262625004
+1770,262625,How many towel racks are there?,262625005
+1771,502523,What is this location?,502523000
+1772,502523,Where is this?,502523001
+1773,502523,Is the plane flying low?,502523002
+1774,502523,Is this an airplane?,502523003
+1775,502523,Is the plane on the ground?,502523004
+1776,502523,Are there any clouds in the sky?,502523005
+1786,524776,What sport is this man partaking in?,524776000
+1787,524776,Why is he wearing a wetsuit?,524776001
+1788,524776,Is he holding on to a sail?,524776002
+1789,262633,Is there fruit in this picture?,262633000
+1790,262633,Is the pineapple upright?,262633001
+1791,262633,How many different fruits?,262633002
+1799,393708,What kind of electronic is this?,393708000
+1800,393708,Is the device turned on?,393708001
+1801,393708,What is holding the device?,393708002
+1802,393708,Is this Android or ios?,393708003
+1803,65618,What color is the elephant?,65618000
+1804,65618,How many elephants are there?,65618001
+1805,65618,What is gray in this picture?,65618002
+1806,65618,Do you see a eye?,65618003
+1810,256458,What is the man doing?,256458000
+1811,256458,What is on the man's chin?,256458001
+1812,256458,Why is the man wearing elbow pads?,256458002
+1816,393713,What type of animals are these?,393713000
+1817,393713,What animal is this?,393713001
+1818,393713,Is it night time?,393713002
+1819,393713,How many elephants are there?,393713003
+1820,393713,Is this the animals natural territory?,393713004
+1821,393713,Are the animals safe?,393713005
+1822,393713,What kind of animals are shown?,393713006
+1823,393713,Where is the small animals?,393713007
+1824,393713,What color are the elephants?,393713008
+1825,393713,Is it daytime?,393713009
+1826,393713,How many elephants are in the watering hole?,393713010
+1827,393713,What kind of animals are around the watering hole?,393713011
+1828,393713,What is the probability of male sheep here?,393713012
+1836,240382,Does this elephant look real?,240382000
+1837,240382,Is the Elephant in a cage?,240382001
+1838,240382,Is it a nice sunny day?,240382002
+1839,262647,Is the cat the same color as the sink?,262647000
+1840,262647,Are there any animals in this picture?,262647001
+1841,262647,Should the cat be allowed on the counter?,262647002
+1842,262647,Are these real animals?,262647003
+1843,262647,Why is there no color?,262647004
+1863,509,What website is on the computer on the right?,509000
+1864,509,How many display monitor's are depicted?,509001
+1865,509,What pattern is on the curtains?,509002
+1866,196693,What is on the plate?,196693000
+1867,196693,What are the large red items on the pizza?,196693001
+1868,196693,What color is the bottle?,196693002
+1873,131586,What color are the tents?,131586000
+1874,131586,Where is a volleyball net?,131586001
+1875,131586,Are they at a kite event?,131586002
+1892,262665,What color is the plate?,262665000
+1893,262665,Are those lasagna noodles?,262665001
+1894,262665,What are the green vegetables called?,262665002
+1895,262665,How many people are most likely sitting at this table?,262665003
+1896,262665,Is this likely to be a vegetarian meal?,262665004
+1897,262666,Is there a keyboard?,262666000
+1898,262666,Did the cat leave hair on the chair?,262666001
+1899,262666,What is the chair made of?,262666002
+1900,262666,What color is the front right leg?,262666003
+1901,262666,How old is the cat?,262666004
+1902,393740,Is this a public fountain?,393740000
+1903,393740,Which van says water?,393740001
+1904,393740,Is there any water?,393740002
+1930,527,What colors are the stripes?,527000
+1931,527,Is this animal in the wild?,527001
+1932,527,Is this a zoo?,527002
+1933,21840,Are they on a table?,21840000
+1934,21840,How much are the oranges?,21840001
+1935,21840,What kind of fruit is on sale?,21840002
+1936,21840,What color are the baskets the oranges are in?,21840003
+1944,393747,Is she swimming?,393747000
+1945,393747,Is she wearing shoes?,393747001
+1946,393747,Are they going to fall?,393747002
+1947,131604,What is the largest object in the picture?,131604000
+1948,131604,Is the water crystal clear?,131604001
+1949,131604,Is the boat out to sea?,131604002
+1950,131604,What color is the boat?,131604003
+1951,131604,How many boats on the water?,131604004
+1957,515031,What is the bird perching on?,515031000
+1958,515031,Is the bird depressed?,515031001
+1959,515031,What color is this bird?,515031002
+1960,535,What color is the truck?,535000
+1961,535,How does the weather appear?,535001
+1962,535,Are these bikes currently being ridden?,535002
+1963,535,How many bikes are in the picture?,535003
+1964,535,What is the truck towing?,535004
+1972,524827,Is the case new?,524827000
+1973,524827,What is on the corner of this suitcase?,524827001
+1974,524827,How much does the suitcase weight according to the display?,524827002
+1975,393758,How many elephants are there?,393758000
+1976,393758,Are all the elephants adults?,393758001
+1977,393758,Is there more than one elephant?,393758002
+1978,393758,How many baby elephants are shown?,393758003
+1979,393758,How many elephants do you see?,393758004
+1980,393758,What are the elephants drinking?,393758005
+1981,393758,How many elephants are shown?,393758006
+1982,393758,How many baby elephants are there?,393758007
+1983,393758,What type of animal is in the picture?,393758008
+1984,393758,Are the trees in a healthy condition?,393758009
+1985,20953,What color is the surfboard?,20953000
+1986,20953,Where was the photo taken?,20953001
+1987,20953,What is the man riding?,20953002
+1988,20953,What color are the waves?,20953003
+1989,131618,Are the elephants taking a bath?,131618000
+1990,131618,Are some elephants leaving the watering hole?,131618001
+1991,131618,What are the elephants doing?,131618002
+1992,131618,Are all of the elephants in the water?,131618003
+1993,131618,Are these animals at a watering hole?,131618004
+1994,393763,How many laptops?,393763000
+1995,393763,Where is there light casted?,393763001
+1996,393763,What color is the mouse?,393763002
+1997,393763,Is the smartphone connected to the computer?,393763003
+1998,393763,Does the computer have wallpaper?,393763004
+1999,393763,What is the name of the book on the table?,393763005
+2003,262695,What color pattern is this plane?,262695000
+2004,262695,Which hand is in the picture?,262695001
+2005,262695,What is the number on the side of the jet?,262695002
+2006,262695,Is the man flying next to the jet?,262695003
+2007,262695,Is this image real?,262695004
+2018,524841,Is this traffic light attached well?,524841000
+2019,524841,What is the picture on the sign in this photo?,524841001
+2020,524841,What is hanging above?,524841002
+2021,524841,What is holding the traffic lights up?,524841003
+2022,524841,What is this light for?,524841004
+2023,554,Is someone taking a picture of her?,554000
+2024,554,Is she wearing a watch?,554001
+2025,554,Is the phone a smartphone?,554002
+2026,411834,What color collar is the dog wearing?,411834000
+2027,411834,What does the dog have in its mouth?,411834001
+2028,411834,Is the dog playing?,411834002
+2029,411834,What animal is this?,411834003
+2030,411834,Is the dog walking?,411834004
+2031,411834,What color is the frisbee?,411834005
+2043,131634,What color is the van in the background?,131634000
+2044,131634,Is the motorbike moving?,131634001
+2045,131634,Is this a Harley?,131634002
+2046,131634,Is this a vintage bike?,131634003
+2099,570,Do you see a sidewalk?,570000
+2100,570,What kind of meter is shown?,570001
+2101,570,Does it look like there is a road nearby?,570002
+2102,570,What is the number on the meter?,570003
+2116,19,How many cows sitting?,19000
+2117,19,How many adult cows are shown?,19001
+2118,19,What kind of land is this?,19002
+2119,19,Is there enough for them to eat?,19003
+2120,19,How many animals are there?,19004
+2126,524870,What country might this be?,524870000
+2127,524870,Are the animals eating vegetation?,524870001
+2128,524870,What kind of animal is this?,524870002
+2138,393802,Is the batter right handed?,393802000
+2139,393802,What is behind the person?,393802001
+2140,393802,What color is the opposing team?,393802002
+2141,393802,What sport are they playing?,393802003
+2142,393802,Is there a goalie?,393802004
+2143,393802,Is there a bench at the playground behind the baseball players?,393802005
+2144,393802,Where is the umpire?,393802006
+2145,393802,What game is the man playing?,393802007
+2146,393802,What sport are these two playing?,393802008
+2147,393802,Is the boy really batting?,393802009
+2148,393802,What is the boy doing?,393802010
+2149,393802,What is the plate called that the player in the blue shirt is standing at?,393802011
+2150,393802,What sport is this?,393802012
+2151,393802,What types of trees are in the background?,393802013
+2152,393802,Is this a game made up of adults or children?,393802014
+2153,393802,Is this t ball?,393802015
+2154,393802,Which team could score a point in this play?,393802016
+2155,393802,What kind of baseball is he hitting?,393802017
+2156,393802,Did he already hit the ball?,393802018
+2157,393802,What color are the boys shoes?,393802019
+2158,393802,What is the player wearing backwards?,393802020
+2159,393802,Are there any shadows?,393802021
+2160,393802,How many bats are in the photo?,393802022
+2161,393802,Is the man wearing a muscle shirt?,393802023
+2162,393802,Are they on the same team?,393802024
+2163,393802,What is the boy doing with ball?,393802025
+2164,393802,Is the boy moving?,393802026
+2165,393802,Is there an umpire present?,393802027
+2166,393802,What is the man in blue doing?,393802028
+2167,393802,How many people are there?,393802029
+2168,393802,Where are the people standing?,393802030
+2172,262732,What color is the plate?,262732000
+2173,262732,Is the food hot?,262732001
+2174,262732,Is the food vegan?,262732002
+2175,262732,How many plates are in this picture?,262732003
+2207,563043,Is the man working?,563043000
+2208,563043,What color are the shoes?,563043001
+2209,563043,What is he wearing over his eyes?,563043002
+2210,393820,Are there holiday decorations in the picture?,393820000
+2211,393820,What is covering the couch?,393820001
+2212,393820,Is the cat playing dead?,393820002
+2213,209517,What part of the sky is red?,209517000
+2214,209517,Are the men twins?,209517001
+2215,209517,Is this sunrise or sunset?,209517002
+2216,209517,What are the people holding up?,209517003
+2217,502544,What is the yellow flower?,502544000
+2218,502544,Where is the red chair?,502544001
+2219,502544,Where is the window?,502544002
+2220,502544,Are these autumn flowers?,502544003
+2221,502544,What room is this?,502544004
+2225,458854,Is there a fence?,458854000
+2226,458854,What is the cow doing?,458854001
+2227,458854,Is this a farm?,458854002
+2228,458854,How many cows are in the picture?,458854003
+2229,131686,What is the walls covering made of?,131686000
+2230,131686,Is this bathroom cluttered?,131686001
+2231,131686,Are those people or a reflection of people?,131686002
+2232,568081,What is she looking at?,568081000
+2233,568081,What fabric is the girl's blouse?,568081001
+2234,568081,Is the woman texting?,568081002
+2244,619,How many people are in the photo?,619000
+2245,619,What color is the table the bananas are on?,619001
+2246,619,What color are the bananas?,619002
+2247,619,"What is the reddish, round object on the ground near the man?",619003
+2248,619,Are the bananas ripe?,619004
+2249,240402,What are the people doing?,240402000
+2250,240402,What is covering the roof of the buildings?,240402001
+2251,240402,What kind of resort is this?,240402002
+2262,305537,Is it daytime?,305537000
+2263,305537,Is this photo black and white?,305537001
+2264,305537,What is the weather like?,305537002
+2282,262775,What kind of window can toys be seen through?,262775000
+2283,262775,Are there more than 2 stuff animals in the picture?,262775001
+2284,262775,Are the 2 windshield wipers on the back of the car?,262775002
+2285,393848,Is this a restaurant?,393848000
+2286,393848,What color oven it is?,393848001
+2287,393848,What color are the knobs on the stove?,393848002
+2288,393848,What is she eating?,393848003
+2289,393848,What is the person making?,393848004
+2290,393848,What is on top of the stove?,393848005
+2291,393848,What is hanging from the stove handle?,393848006
+2292,393848,What color is the stove?,393848007
+2293,393848,Is the baby looking through the drawers?,393848008
+2294,393848,What is he wearing?,393848009
+2295,393848,Is that person standing on the floor?,393848010
+2300,131707,What is the dog sitting next to?,131707000
+2301,131707,Is the dog going to get paint on his butt?,131707001
+2302,131707,Is the dog a prisoner?,131707002
+2303,395427,What is the color of the walls?,395427000
+2304,395427,Is there a tree in the picture?,395427001
+2305,395427,Is he working on the computer?,395427002
+2306,65642,What type of dessert is pictured?,65642000
+2307,65642,Is there a glass case?,65642001
+2308,65642,Is it day or night?,65642002
+2309,305941,Is this man mad?,305941000
+2310,305941,Which way is the man pointing?,305941001
+2311,305941,Is this a busy city?,305941002
+2312,480704,What is the baby playing with?,480704000
+2313,480704,Is the baby learning how to type?,480704001
+2314,480704,Is the keyboard plugged into a computer?,480704002
+2315,480704,Is the child's hair curly or straight?,480704003
+2316,393859,Is the bag on the left or right side of the picture?,393859000
+2317,393859,Is this a healthy meal?,393859001
+2318,393859,Is this a wooden bench?,393859002
+2325,262790,Are the sheep all the same age?,262790000
+2326,262790,What are the animals doing?,262790001
+2327,262790,Is there a large tree trunk in the picture?,262790002
+2328,262790,Are all the sheep standing?,262790003
+2329,647,Is the sky blue?,647000
+2330,647,Is the plane smoking?,647001
+2331,647,What kind of vehicle is in the sky?,647002
+2332,647,What are the white streaks trailing from the planes?,647003
+2333,647,Is the plane on fire?,647004
+2334,131723,What color is the jacket?,131723000
+2335,131723,What is the gender of the person?,131723001
+2336,131723,What color is the skier's jacket?,131723002
+2337,131723,Is that person cold?,131723003
+2338,131723,How is the woman keeping her balance?,131723004
+2339,131724,What color is the horse?,131724000
+2340,131724,Is there a person in this photo?,131724001
+2341,131724,Is this image double exposed?,131724002
+2342,196425,Is the dog wearing a collar?,196425000
+2343,196425,What kind of animal is shown?,196425001
+2344,196425,Is there a lot of people at the beach today?,196425002
+2363,660,What kind of headboard does the bed have?,660000
+2364,660,What kind of room is the girl in?,660001
+2365,660,What is on the woman's arm?,660002
+2369,662,What did the plane land on?,662000
+2370,662,What state does the plane represent?,662001
+2371,662,What shape is on the plane?,662002
+2376,664,What style of decorations are on the walls?,664000
+2377,664,What is on the coffee table?,664001
+2378,664,Is that a TV?,664002
+2379,664,What color is the carpet?,664003
+2380,664,Who is sitting on the couch?,664004
+2381,664,Is the man relaxing?,664005
+2382,664,Was it taken during the daytime?,664006
+2383,664,What style of mirror is over the fireplace?,664007
+2384,665,What color are the cat's eyes?,665000
+2385,665,How many colors in his tie?,665001
+2386,665,What is the cat wearing?,665002
+2387,665,Does the cat look happy?,665003
+2388,665,Why is the cat dressed up?,665004
+2389,665,Does the cat have a bald spot?,665005
+2390,665,What color is the background?,665006
+2391,665,Are the cats eyes scary looking?,665007
+2396,212115,What's the bus number?,212115000
+2397,212115,How many people are on the bus?,212115001
+2398,212115,Is the bus yellow?,212115002
+2399,212115,How many signs are posted?,212115003
+2400,212115,What mode of transportation is this?,212115004
+2401,212115,What color is the car beside the car?,212115005
+2402,212115,Is the whole picture in color?,212115006
+2419,676,Are they retired?,676000
+2420,676,Does the signpost need replacing?,676001
+2421,676,Are they holding hands?,676002
+2422,676,What does the sign say?,676003
+2423,676,Is the woman walking her dog?,676004
+2428,393894,What is on the ceiling?,393894000
+2429,393894,Where is the mirror?,393894001
+2430,393894,Is this bathroom in a house?,393894002
+2431,393894,What shape is the toilet?,393894003
+2440,262825,How many engines are there?,262825000
+2441,262825,Which airline owns this airplane?,262825001
+2442,262825,Is the plane's lights on?,262825002
+2443,262825,Is the plane in the sky?,262825003
+2450,524972,How many scissors are there?,524972000
+2451,524972,What room would these items be in?,524972001
+2452,524972,What is the wire item with spokes called?,524972002
+2453,262829,Are the boys wearing ties?,262829000
+2454,262829,Is the taller boy happy?,262829001
+2455,262829,Does the closest kid have blonde hair?,262829002
+2456,262829,Which of the children is a girl?,262829003
+2457,262829,How many boys are there?,262829004
+2458,686,What are the people waiting for?,686000
+2459,686,Can you see a shadow?,686001
+2460,686,What is the dominant gender of this crowd?,686002
+2461,686,Are the women friends?,686003
+2462,686,Are there lines on the ground?,686004
+2463,686,Does the woman in black know the other two women?,686005
+2464,686,Could this be considered exercise?,686006
+2465,686,What color is the bench?,686007
+2466,686,Is the man smiling?,686008
+2467,686,Do the girls match?,686009
+2468,686,Can the cats jump that high?,686010
+2472,524978,What time is on the clock?,524978000
+2473,524978,What brand is next to the clock?,524978001
+2474,524978,"Do you see the letter ""z""?",524978002
+2475,524978,What is she wearing on her head?,524978003
+2481,524980,Who made that laptop?,524980000
+2482,524980,Where is the remote?,524980001
+2483,524980,How many speakers do you see?,524980002
+2484,524980,How many notebooks are on the desk?,524980003
+2485,524980,Which instrument is leaning on the chair?,524980004
+2492,262838,Is he properly dressed?,262838000
+2493,262838,Are they cold?,262838001
+2494,262838,How many green skis are shown?,262838002
+2495,262838,Why isn't the skier wearing a coat?,262838003
+2496,262838,What is the man wearing on his head?,262838004
+2504,393913,What is on the shelves?,393913000
+2505,393913,What age are the people that use this room?,393913001
+2506,393913,How many books are on the shelves?,393913002
+2507,393913,Is there a chair in front of the table?,393913003
+2527,524990,Are there many cars on the street?,524990000
+2528,524990,What vehicle is on the street?,524990001
+2529,524990,Is the median raised?,524990002
+2530,524990,Is there a garbage can in sight?,524990003
+2531,393920,Is that man wearing a reflector suit?,393920000
+2532,393920,Is the plane about to take off?,393920001
+2533,393920,What company is on the side of the plane?,393920002
+2534,393920,What color is the plane?,393920003
+2535,131777,What sport is this girl playing?,131777000
+2536,131777,What are they playing?,131777001
+2537,131777,What is the man playing?,131777002
+2538,131777,Is the man in good shape?,131777003
+2539,131777,Is the woman blocking the man?,131777004
+2557,262854,How many road signs?,262854000
+2558,262854,What language is the sign written in?,262854001
+2559,262854,Why is there a watch children sign beneath the stop sign?,262854002
+2560,262854,Is there snow on the ground?,262854003
+2561,262854,Are there poles on the street?,262854004
+2562,262854,Are trucks allowed here?,262854005
+2563,524999,Is she eating a donut?,524999000
+2564,524999,Are they both eating hotdogs?,524999001
+2565,524999,Are they both wearing glasses?,524999002
+2566,524999,Does the man have braces?,524999003
+2567,524999,Is she wearing a silver necklace?,524999004
+2568,524999,What sport is being played in the background?,524999005
+2580,718,What is pictured on the wood?,718000
+2581,718,What is drawn on the floor?,718001
+2582,718,What is the view of?,718002
+2583,393935,What color is the head of the darker duck?,393935000
+2584,393935,Are there any bubbles?,393935001
+2585,393935,What is the duck doing to itself?,393935002
+2586,393935,Are there baby ducks?,393935003
+2587,393935,What kind of ducks are these?,393935004
+2588,393935,What are these ducks sitting in?,393935005
+2589,393935,What color is white duck's beak?,393935006
+2590,393935,Are these ducks at a park?,393935007
+2591,393935,Can a person move their neck like that?,393935008
+2592,393935,What gender are these ducks?,393935009
+2593,393935,Is this a mallard?,393935010
+2601,393938,What color is car?,393938000
+2602,393938,What musical is advertised on this bus?,393938001
+2603,393938,What's next to the bus?,393938002
+2604,502563,How many men are there?,502563000
+2605,502563,What is being lathered on the elephant?,502563001
+2606,502563,What are the men giving a bath?,502563002
+2607,725,Is that girl an athlete?,725000
+2608,725,What is the color of the tennis court?,725001
+2609,725,What sport is shown?,725002
+2610,725,What is the tennis player about to do?,725003
+2611,725,What color is the court?,725004
+2612,725,What color is her skirt?,725005
+2613,725,Is this a professional player?,725006
+2614,262871,What is in the water?,262871000
+2615,262871,How many colors are on the umbrella?,262871001
+2616,262871,Do you see a statue?,262871002
+2624,262881,How many wheels are on the jet?,262881000
+2625,262881,Are there tall trees alongside the runway?,262881001
+2626,262881,Where is the jet?,262881002
+2637,262886,What is in the hand?,262886000
+2638,262886,Do you see sausage?,262886001
+2639,262886,What words are on the sticker above the hot dogs?,262886002
+2643,524412,What color is the plate?,524412000
+2644,524412,Is there fruit on the table?,524412001
+2645,524412,Is there light shining on the cutting board?,524412002
+2649,748,Is the baby crying?,748000
+2650,748,How healthy is this food?,748001
+2651,748,What did the baby eat?,748002
+2652,161512,Is the man smiling?,161512000
+2653,161512,Where are the slices of lemon?,161512001
+2654,161512,What is green on the pizza?,161512002
+2663,131823,Is she wearing protective gear?,131823000
+2664,131823,What sport is this?,131823001
+2665,131823,Is the person's hands raised?,131823002
+2666,371496,What is the man riding?,371496000
+2667,371496,"What this taken in Austin, Texas?",371496001
+2668,371496,Which horse is ahead?,371496002
+2669,371496,Is the horse casting a shadow?,371496003
+2670,525043,Is this the common color of elephants?,525043000
+2671,525043,What is on the elephants back?,525043001
+2672,525043,Is this in a zoo?,525043002
+2673,525043,Is this a wild animal?,525043003
+2674,131830,Does this person have a PlayStation controller?,131830000
+2675,131830,How old is the man?,131830001
+2676,131830,Is anyone sitting in the seat to the left of the man?,131830002
+2687,262905,Is this a real game to play on the ground?,262905000
+2688,262905,Is it raining?,262905001
+2689,262905,What are they holding?,262905002
+2690,262905,Does the word for this type of stone sound like a person who mends shoes?,262905003
+2691,262905,What type of tree is shown?,262905004
+2692,262905,Why are they holding umbrella?,262905005
+2710,128,Do you see the baby elephant?,128000
+2711,128,Does the elephant have anything on it's back?,128001
+2712,128,Did the elephant write the sign?,128002
+2713,128,What is under the elephant?,128003
+2714,128,Is it in Thailand?,128004
+2715,128,What is the person who took this picture sitting in?,128005
+2716,128,Is the elephant eating?,128006
+2717,128,How many elephants?,128007
+2718,128,Is someone on top of the animal?,128008
+2719,128,Are they playing?,128009
+2720,128,What sort of animal is this?,128010
+2721,128,What is the elephant stepping on?,128011
+2740,525062,Is that cat stretching?,525062000
+2741,525062,Are the cat's eyes open?,525062001
+2742,525062,Is the cat interfering with work?,525062002
+2743,525062,Where is the cat sitting?,525062003
+2744,525062,Is the cat sleeping?,525062004
+2748,131848,Is anyone upside down?,131848000
+2749,131848,What color is the water?,131848001
+2750,131848,Is this person windsurfing?,131848002
+2751,437036,Is this a festival?,437036000
+2752,437036,How many horses?,437036001
+2753,437036,What color is the horse?,437036002
+2754,170242,What in this picture is made of rawhide?,170242000
+2755,170242,What is the dog looking at?,170242001
+2756,170242,Is it dumpling in front of the dog?,170242002
+2757,170242,What color is the dog?,170242003
+2774,262929,What is he riding?,262929000
+2775,262929,Is he wearing protective gear?,262929001
+2776,262929,Are they wearing helmets?,262929002
+2777,262929,What is the little boy dressed as?,262929003
+2778,262929,What kind of hat is the boy wearing?,262929004
+2779,262929,What vehicle is he on?,262929005
+2780,262929,Is the bike a tricycle?,262929006
+2784,109358,What is the bed frame made out of?,109358000
+2785,109358,Has the bed been made up?,109358001
+2786,109358,How many pillows do you see?,109358002
+2787,109358,What size is this bed?,109358003
+2788,109358,What size mattress is on the frame?,109358004
+2789,109358,What color are the pillows?,109358005
+2790,109358,What is the color of the wall?,109358006
+2791,109358,Where is the light coming from?,109358007
+2792,109358,How many pillows are there?,109358008
+2793,109358,Is this likely a hotel room?,109358009
+2794,109358,Is there a stuffed animal in between the pillows?,109358010
+2795,109358,Are wooden floors more durable than tile?,109358011
+2796,109358,Was this bed just made?,109358012
+2797,109358,Does the bed have covers?,109358013
+2798,109358,Does this ben need to be made?,109358014
+2799,525078,What does the man's shirt say?,525078000
+2800,525078,What color is the lady blouse?,525078001
+2801,525078,Where is the man sitting?,525078002
+2802,394007,Where is this lady standing?,394007000
+2803,394007,Does she look like a skater girl?,394007001
+2804,394007,What is the lady sitting down drinking?,394007002
+2805,394007,What is she doing?,394007003
+2806,394007,Is the seated woman smoking a cigarette?,394007004
+2807,394007,Is this person using a laptop?,394007005
+2808,394007,How many windows do you see?,394007006
+2809,394007,"Where is the woman located, geographically speaking?",394007007
+2810,394007,What color is her hair?,394007008
+2811,394007,What is the lady doing?,394007009
+2812,394007,Is this woman wearing a dress?,394007010
+2813,394007,What is this woman sitting on?,394007011
+2814,394007,What is the looking at?,394007012
+2815,262939,What is growing in the fields?,262939000
+2816,262939,What animals are in the field?,262939001
+2817,262939,What kind of animals are in the pasture?,262939002
+2818,262939,What animal is shown?,262939003
+2819,262939,Is this a picture of a picture?,262939004
+2820,262939,Is this near a body of water?,262939005
+2821,262939,How many horses are in the photo?,262939006
+2822,262939,Is this a photo or painting?,262939007
+2823,139691,Is this an advertisement for soap bubbles?,139691000
+2824,139691,Does the man look happy?,139691001
+2825,139691,What kind of beverage is in the bottle?,139691002
+2826,139691,Is this any kind of food festival?,139691003
+2827,139691,Is her wearing eyeglasses?,139691004
+2828,139691,What is under the food?,139691005
+2829,139691,Is that a healthy meal?,139691006
+2830,139691,Is the sandwich on a plate?,139691007
+2834,130067,Is this man wet?,130067000
+2835,130067,Is this the ocean?,130067001
+2836,130067,Is the surfer alone?,130067002
+2837,130067,Are there a lot of people on the shore?,130067003
+2838,130067,Does all that white water whipping around go by a very obvious name?,130067004
+2839,131873,Is it a sunny day?,131873000
+2840,131873,What is the giraffe doing?,131873001
+2841,131873,Is this an adult?,131873002
+2850,394022,What year is that boat?,394022000
+2851,394022,What is the last letter of the boat identification number being with the letter W?,394022001
+2852,394022,Is the boat broken?,394022002
+2853,96787,What letters are on his shirt?,96787000
+2854,96787,What colors alternate on the barricade?,96787001
+2855,96787,How does the dog appear?,96787002
+2856,809,How many real sinks are there?,809000
+2857,809,How many cupboards can you see?,809001
+2858,809,Where is the knife holder located?,809002
+2859,809,Are there any stools?,809003
+2860,809,Is there a full- sized refrigerator visible?,809004
+2861,809,What color is the refrigerator?,809005
+2862,809,Where is the helmet?,809006
+2863,809,Where is the microwave?,809007
+2864,809,Are there chairs to sit down on?,809008
+2865,809,Is the water on?,809009
+2866,809,Where is the fridge placed?,809010
+2867,809,Where would someone press their clothes in this room?,809011
+2868,809,Is there a TV in the room?,809012
+2869,809,Is it blurry?,809013
+2870,809,Is there a double oven in the kitchen?,809014
+2871,809,Is the door open?,809015
+2872,809,Is that a new fridge?,809016
+2873,809,Is this a home office?,809017
+2874,809,What room is this?,809018
+2875,809,Is there a dog in the picture?,809019
+2876,809,Is this someone's business office?,809020
+2877,809,Are there dishes in the sink?,809021
+2878,809,What is cooking on the stove?,809022
+2882,244440,How many toilets are there?,244440000
+2883,244440,What location is the toilet in?,244440001
+2884,244440,What character is on the seat?,244440002
+2885,244440,Is this toilet in the street?,244440003
+2886,244440,Is this a clean place?,244440004
+2887,244440,Why are the poker cards and chips on the toilet?,244440005
+2897,525105,What utensils are shown?,525105000
+2898,525105,How many plates are there?,525105001
+2899,525105,Is the candle on the table lit?,525105002
+2900,525105,What number is on the cake?,525105003
+2901,525105,What is lit up?,525105004
+2902,525105,What is sticking out of the bundt cake?,525105005
+2903,525105,Is this picture blurry?,525105006
+2904,525105,What utensils are on the plate?,525105007
+2905,525105,What room are the people in?,525105008
+2906,525105,Are the candles light?,525105009
+2907,525105,What is on top of the candles?,525105010
+2908,525105,Is there a candle lit?,525105011
+2909,525105,Are there any drinks on the table?,525105012
+2910,525105,What type of cake is this?,525105013
+2911,525105,What is the number on the cake?,525105014
+2915,262964,What animal is on the kite?,262964000
+2916,262964,How many trees are in the photo?,262964001
+2917,262964,What was the kite designed to look like?,262964002
+2918,262964,What is the building made of?,262964003
+2923,394038,Is it snowing?,394038000
+2924,394038,Who has a hand raised up?,394038001
+2925,394038,Are they both skiing?,394038002
+2926,394039,Are there daisies?,394039000
+2927,394039,What is between the statues on the stool?,394039001
+2928,394039,What material are the chairs?,394039002
+2941,394044,What color is the bird's beak?,394044000
+2942,394044,Is this their nest?,394044001
+2943,394044,Is the bird resting?,394044002
+2944,394044,Is the bird preparing a nest?,394044003
+2945,394044,Is this a tall bird?,394044004
+2946,394044,What kind of bird is it?,394044005
+2947,394044,What color are the birds feet?,394044006
+2948,394044,What is the bird stepping?,394044007
+2949,394044,Does the bird have a red beak?,394044008
+2953,262975,Where are the orange oven mitts?,262975000
+2954,262975,What kind of room is this?,262975001
+2955,262975,How clean is this kitchen?,262975002
+2956,262975,What color are the appliances?,262975003
+2957,480736,Is he wearing a knee brace?,480736000
+2958,480736,Is the time centered on the man?,480736001
+2959,480736,Is the batter right handed?,480736002
+2960,480736,Is that a tennis bracket?,480736003
+2961,480736,Is this person wearing glasses?,480736004
+2962,480736,Is he playing baseball?,480736005
+2963,480736,Is the baseball player a professional?,480736006
+2964,480736,Read the text in shirt?,480736007
+2965,480736,What color is his shirt?,480736008
+2966,262978,What is the man in the red jacket doing?,262978000
+2967,262978,What season is it?,262978001
+2968,262978,What is covering the ground?,262978002
+2969,262978,Is the man skiing alone?,262978003
+2979,262982,Is the dog's tongue out?,262982000
+2980,262982,Where is the Frisbee?,262982001
+2981,262982,Is the dog in the park?,262982002
+2982,262982,Is this dog hot or cold?,262982003
+2983,394055,What food is this?,394055000
+2984,394055,Where is the food?,394055001
+2985,394055,Is there a pickle on the plate?,394055002
+3012,434801,What is the truck going to transport?,434801000
+3013,434801,What kind of truck is shown?,434801001
+3014,434801,How many windshield wipers?,434801002
+3015,434801,Is there anything on the flatbed?,434801003
+3016,851,How many felines are in the photo?,851000
+3017,851,What's wrong with the outlet on the wall?,851001
+3018,851,Is something missing on the bed?,851002
+3029,263001,Where is the toilet paper?,263001000
+3030,263001,What is the design of the toilet brush holder?,263001001
+3031,263001,What color is this trash can?,263001002
+3032,263001,Is there a trash can in the bathroom?,263001003
+3033,263001,What colors are there in the tiles?,263001004
+3034,263001,Does the tiling in this bathroom need to be redone?,263001005
+3035,263001,What is sitting on top of the toilet?,263001006
+3040,394077,What is the man doing?,394077000
+3041,394077,What is on the man's stomach?,394077001
+3042,394077,Is the man awake?,394077002
+3043,303595,What noticeable accessory is the man wearing on his face?,303595000
+3044,303595,What is the man doing?,303595001
+3045,303595,Is the person holding food?,303595002
+3046,303595,How many lanes are on the street?,303595003
+3047,303595,Is that a churro?,303595004
+3048,525151,What food is in the bowl?,525151000
+3049,525151,Is anything edible in this picture?,525151001
+3050,525151,What is white on ground?,525151002
+3051,263010,What room in someone's home is this?,263010000
+3052,263010,Is there a fireplace in the room?,263010001
+3053,263010,How many pictures on the wall?,263010002
+3054,263010,Is this room decorated tastefully?,263010003
+3055,263010,What color is the couch?,263010004
+3059,525156,Is the car on the hill?,525156000
+3060,525156,Is the car going uphill or downhill?,525156001
+3061,525156,What does the sign say?,525156002
+3069,870,Is there a lot of food for this animal?,870000
+3070,870,What type of animal is in the photo?,870001
+3071,870,What animal is silhouetted?,870002
+3072,870,Can you see the sun in this picture?,870003
+3073,870,What is shining through the trees?,870004
+3074,525159,What is the weather?,525159000
+3075,525159,Is the train on the tracks?,525159001
+3076,525159,How many separate train tracks are there?,525159002
+3077,525161,Is it outside?,525161000
+3078,525161,What is the shape of the top of the headboard?,525161001
+3079,525161,What is the beds made of?,525161002
+3080,525161,How many shelves are shown?,525161003
+3081,525161,Is the mattress made?,525161004
+3082,525161,How many pillows are there?,525161005
+3083,525161,Are the steps on the bed?,525161006
+3095,394094,What is on the bread?,394094000
+3096,394094,Are the carrots sliced?,394094001
+3097,394094,Is the plate plain or decorated?,394094002
+3098,394094,Are there beans?,394094003
+3099,394094,Is this the main dish of a traditional Thanksgiving dinner?,394094004
+3100,394094,Are all the vegetables the same?,394094005
+3101,394094,Are these foods nutritious?,394094006
+3102,502589,Is this the snack aisle?,502589000
+3103,502589,What color is the teddy bear?,502589001
+3104,502589,Did she hug the teddy bear?,502589002
+3105,880,Is this the type of pizza one generally orders as delivery?,880000
+3106,880,IS there multiple toppings on the pizza?,880001
+3107,880,Did someone eat a whole slice of pizza?,880002
+3108,880,How many holes are in the pizza?,880003
+3109,880,Is there 2 pizzas visible?,880004
+3113,131955,What are the spectators sitting on?,131955000
+3114,131955,Will the planes hit each other?,131955001
+3115,131955,What color is the sky?,131955002
+3116,131955,What is in the sky in the background?,131955003
+3117,131955,Is this a competition?,131955004
+3118,131955,What are they sitting on?,131955005
+3119,131957,What color is the toilet with the pot on it?,131957000
+3120,131957,Is the green pot using the toilet?,131957001
+3121,131957,Are these working toilets?,131957002
+3122,394102,Is this a keyboard?,394102000
+3123,394102,Is this photo watermarked?,394102001
+3124,394102,Is the photo in color?,394102002
+3125,394103,Is there a rope around the cow?,394103000
+3126,394103,Is the truck moving or stopped?,394103001
+3127,394103,Are the cows in the street?,394103002
+3128,394103,How many cows are displayed?,394103003
+3129,394103,Is this a city?,394103004
+3130,394103,What color is the scooter?,394103005
+3131,394103,Does the brown cow have horns?,394103006
+3132,888,Is this room being used?,888000
+3133,888,What kind of animal is laying on the floor?,888001
+3134,888,Is there a fridge in the kitchen?,888002
+3135,888,Is it day time?,888003
+3136,888,Is there an animal outside the house?,888004
+3137,263034,How many pillows are on the bed?,263034000
+3138,263034,What is the color of the bed sheets?,263034001
+3139,263034,Is there a pillow on the bed?,263034002
+3143,263037,What is the sign advertising?,263037000
+3144,263037,What is the yellow sign for?,263037001
+3145,263037,What does the yellow sign say?,263037002
+3146,263037,What is advertised in the background?,263037003
+3147,263037,How many umbrella's are there?,263037004
+3148,263037,What are the umbrellas for?,263037005
+3149,263037,How many people are pictured?,263037006
+3186,262294,What kind of drinks are on the table?,262294000
+3187,262294,What machine is turned on?,262294001
+3188,262294,What animal is on the screen?,262294002
+3189,262294,How many laptops?,262294003
+3190,262294,Where are the children?,262294004
+3191,262294,Does this man wear eyeglasses?,262294005
+3192,262294,What type of sweater is the man wearing?,262294006
+3193,262294,What kind of beverage is on the table?,262294007
+3194,262294,Why is the man smiling at the child?,262294008
+3195,131975,What color are the skis?,131975000
+3196,131975,How many red skis are there?,131975001
+3197,131975,What is the man holding on to?,131975002
+3198,131975,Is the man on the snow?,131975003
+3199,904,Is there only one bird shown in the image?,904000
+3200,904,Are the birds sitting?,904001
+3201,904,How many lines of birds are there?,904002
+3202,904,Is this an entire flock?,904003
+3208,419024,Are the flowers dead?,419024000
+3209,419024,Is the vase clear glass?,419024001
+3210,419024,Who designed the vase in this picture?,419024002
+3211,419024,Are these flowers?,419024003
+3212,419024,What is growing on the plant?,419024004
+3213,419024,How full is the vase?,419024005
+3214,419024,Is the sun shining?,419024006
+3215,419024,Why is the flower drooping?,419024007
+3216,419024,What vessel is the plant growing in?,419024008
+3217,419024,What colors are the plant?,419024009
+3232,263059,Is the computer on?,263059000
+3233,263059,Where is the keyboard?,263059001
+3234,263059,What color is the keyboard?,263059002
+3235,263059,What brand is the computer?,263059003
+3246,394136,What animal is shown?,394136000
+3247,394136,Is the water on?,394136001
+3248,394136,Is the room well lit?,394136002
+3249,394136,How many people attend to the elephant?,394136003
+3250,394136,What is in the cage?,394136004
+3251,394136,Is the elephant playful?,394136005
+3252,394136,Is this a cow or a bull?,394136006
+3253,394136,How many lights can be seen?,394136007
+3254,394136,What color is the hose?,394136008
+3255,394136,What is the cement object just below the front of the elephant's trunk?,394136009
+3256,394136,What animal is behind the gate?,394136010
+3257,394136,Is there a car attached to the wheel?,394136011
+3262,263069,How many giraffes are shown?,263069000
+3263,263069,Is this a zoo?,263069001
+3264,263069,What animal is shown?,263069002
+3265,394147,Is this a touch screen phone?,394147000
+3266,394147,Are the fingernails painted?,394147001
+3267,394147,What is on the person's finger?,394147002
+3271,132006,What device is in the right side of the picture?,132006000
+3272,132006,Are all the bears' eyes visible?,132006001
+3273,132006,Is that woman wearing sunglasses?,132006002
+3274,132006,Is that a man or woman in the background?,132006003
+3275,132006,Why does this bear need Purell?,132006004
+3276,132006,Is this at a store?,132006005
+3277,132006,What is the teddy bear sitting on?,132006006
+3278,132006,What color is the bear?,132006007
+3279,132006,How many stuffed animals are in the photo?,132006008
+3280,132006,Do you think the girl is pretty?,132006009
+3281,132006,What type of shoes is she wearing?,132006010
+3282,132006,How many eyes are there?,132006011
+3283,132006,What is the bear leaning against?,132006012
+3284,132006,What is the teddy bear missing?,132006013
+3285,132006,Is this a large chair?,132006014
+3286,132006,What color is the blanket in the background?,132006015
+3287,132006,Why is the women smiling?,132006016
+3288,132006,What color is the stuffed bear?,132006017
+3289,132006,What color is the teddy bear?,132006018
+3297,196765,Is there fruit on the table?,196765000
+3298,196765,Is the chair pushed in?,196765001
+3299,196765,How many chairs are in the picture?,196765002
+3300,196765,What is the table made out of?,196765003
+3305,394161,What country does the flag sticker represent?,394161000
+3306,394161,What number is on the green and white bus?,394161001
+3307,394161,Where is the bus parked?,394161002
+3308,394161,Can the bus driver be seen?,394161003
+3309,394161,Why does the bus appear to be stopped?,394161004
+3310,394161,Is anybody on the bus?,394161005
+3311,394161,Is anyone waiting on the sidewalk?,394161006
+3312,576148,Is anyone waiting for the train?,576148000
+3313,576148,Where are the tall buildings?,576148001
+3314,576148,Is it possible to determine the gender of the person sitting on the bench?,576148002
+3315,263091,What is the cat standing over?,263091000
+3316,263091,Is the cat standing over a laptop?,263091001
+3317,263091,What color is the cup?,263091002
+3322,394168,What does the larger sign say?,394168000
+3323,394168,What street is this sign for?,394168001
+3324,394168,What color are the buildings?,394168002
+3325,394168,Does the sign indicate this is the beginning?,394168003
+3326,394168,Why is the sign bent?,394168004
+3327,394168,What is the name of the street?,394168005
+3328,394168,What color is the lettering?,394168006
+3336,415221,How many tails are in this picture?,415221000
+3337,415221,What kinds of animals are these?,415221001
+3338,415221,Are most of the animals walking away from the camera?,415221002
+3339,415221,What color is the grass?,415221003
+3340,415221,How many animals are there?,415221004
+3341,415221,What season is this?,415221005
+3342,132033,Are the elephants dirty?,132033000
+3343,132033,Why do elephants cover themselves with mud?,132033001
+3344,132033,Are these elephants standing in front of water?,132033002
+3345,263108,What is green in this room?,263108000
+3346,263108,Is the blender black?,263108001
+3347,263108,Is the stove being used?,263108002
+3348,117874,Is this a female or a male dog?,117874000
+3349,117874,Is the dog a purebred or a mutt?,117874001
+3350,117874,Is the dog rabid?,117874002
+3351,117874,Did he catch a frisbee?,117874003
+3352,968,What is the number of living animals present?,968000
+3353,968,What color is the cat on the left?,968001
+3354,968,Are the cats being curious?,968002
+3355,968,How many cats are in the window?,968003
+3356,525257,Is this a moving truck?,525257000
+3357,525257,Are the headlights on?,525257001
+3358,525257,Can you see the driver?,525257002
+3359,970,What type of lawn tool is located on the ad in the back?,970000
+3360,970,Is the biker turning?,970001
+3361,970,Is the race track made of dirt?,970002
+3365,30584,How many cats are there?,30584000
+3366,30584,Are this cat's eyes closed?,30584001
+3367,30584,Is the cat facing the TV?,30584002
+3371,979,What color is his helmet?,979000
+3372,979,Is this a summer activity?,979001
+3373,979,Is it cold outside?,979002
+3374,979,What is the weather like?,979003
+3375,979,What is on the ground?,979004
+3376,979,What is red on the road in the distance?,979005
+3377,979,What is in the street?,979006
+3378,979,What season is this?,979007
+3379,979,Are the trees in the background evergreens or deciduous?,979008
+3380,979,Are the trees covered with snow?,979009
+3381,979,What time of day is it?,979010
+3382,979,Is the person driving towards the camera?,979011
+3383,979,Is it winter or summer?,979012
+3384,979,What substance is covering the ground?,979013
+3385,979,What is the person doing?,979014
+3386,979,Are they moving fast?,979015
+3387,979,What activity is taking place?,979016
+3388,979,Is it probably cold here?,979017
+3389,979,Is this a black and white photo?,979018
+3390,979,Is the man standing on skis?,979019
+3391,979,Is this road located in the woods?,979020
+3392,979,What type of weather is going on here?,979021
+3393,979,Are the branches still attached to the tree?,979022
+3394,979,What is covering the ground?,979023
+3395,979,How many cars do you see in the background?,979024
+3396,306143,Are all the sheep standing?,306143000
+3397,306143,What animal are these?,306143001
+3398,306143,How many round turrets are there on the castle?,306143002
+3399,263126,Is this a recent photo?,263126000
+3400,263126,How many girls are there?,263126001
+3401,263126,Is this man a professional baker?,263126002
+3402,263126,What color are the tablecloths?,263126003
+3403,263126,What color is the tablecloth?,263126004
+3404,263126,What is inside the suitcase?,263126005
+3405,263126,What is the lady holding up in the background?,263126006
+3406,263126,Where is she sitting?,263126007
+3407,263126,What does the woman have?,263126008
+3408,263126,Is everyone wearing glasses?,263126009
+3409,263126,How many slices of toast are on the pan?,263126010
+3410,263126,Is there a laptop in the picture?,263126011
+3411,263126,Is the woman wearing jeans?,263126012
+3412,263126,Does she have glasses on?,263126013
+3413,263126,What is the woman holding?,263126014
+3414,263126,What is the woman selling?,263126015
+3415,192044,What is the pizza sitting on?,192044000
+3416,192044,What toppings are on the pizza?,192044001
+3417,192044,Is the pizza burnt?,192044002
+3433,263129,Is the man wearing goggles?,263129000
+3434,263129,What is this man looking at?,263129001
+3435,263129,Where is the microwave?,263129002
+3436,506317,How many cars are in the picture?,506317000
+3437,506317,How many benches are in the picture?,506317001
+3438,506317,Are both benches the same color?,506317002
+3439,61136,Is the bird in a nest?,61136000
+3440,61136,Can these animal fly?,61136001
+3441,61136,What kind of bird is this?,61136002
+3442,394205,Is the toilet in working order?,394205000
+3443,394205,Do the sinks work?,394205001
+3444,394205,Are the sinks attached to a wall?,394205002
+3445,263134,How many carrots are there?,263134000
+3446,263134,What is this red food?,263134001
+3447,263134,How long would it take to slice the vegetables this thin?,263134002
+3448,263134,Are those vegetable real?,263134003
+3449,263134,What are the peppers sitting on?,263134004
+3450,263134,What is the total number of fruits and vegetables here?,263134005
+3451,263134,Is this someone's lunch?,263134006
+3452,263134,What is the occasion?,263134007
+3453,263134,Is there a knife?,263134008
+3454,525279,Is there meat in this dish?,525279000
+3455,525279,What are the green round items called?,525279001
+3456,525279,Is this food healthy?,525279002
+3465,263139,What is flying over the water?,263139000
+3466,263139,Is there a plane in the water?,263139001
+3467,263139,Is this a rescue?,263139002
+3468,263139,What is in air?,263139003
+3469,263139,How many boats are in the water?,263139004
+3470,263139,Is there shade from a tree?,263139005
+3485,263143,What color are the wings of the plane?,263143000
+3486,263143,Do you see any trees?,263143001
+3487,263143,What are they flying?,263143002
+3488,263143,Is this a commercial airliner?,263143003
+3489,263143,Is there a superman logo in the background?,263143004
+3490,263143,IS the sky perfectly clear?,263143005
+3491,263143,Is the sun setting?,263143006
+3492,263143,Is it sunny out?,263143007
+3493,263143,What time of day is it?,263143008
+3494,263143,What are the three strings called that are hanging behind the kite?,263143009
+3495,263143,Is it overcast today?,263143010
+3496,263143,Is it a sunny day?,263143011
+3497,263143,Is the plane going into the clouds?,263143012
+3498,263143,What color is the sky?,263143013
+3499,263143,What is flying in the sky?,263143014
+3500,263143,What colors are in the sky?,263143015
+3501,263143,Is it cloudy?,263143016
+3502,263143,Are there clouds in the sky?,263143017
+3503,263143,Is it a cloudy day?,263143018
+3504,263143,Is it summer?,263143019
+3505,263143,What is the weather doing?,263143020
+3518,525291,What is this person standing on?,525291000
+3519,525291,Is the wave big?,525291001
+3520,525291,Is the person falling?,525291002
+3521,525291,Is she falling?,525291003
+3522,132076,Do the toppings on these hot dogs make them taste sour or sweet?,132076000
+3523,132076,How many hot dogs in total?,132076001
+3524,132076,Are there any electronics or electronic accessories in the picture?,132076002
+3525,132076,What kind of meat is between the buns?,132076003
+3526,132076,What is on the plate?,132076004
+3544,263151,What is that on the right side of picture?,263151000
+3545,263151,What does this store sell?,263151001
+3546,263151,What type of room is this?,263151002
+3547,263151,What type of mattresses are there?,263151003
+3548,263151,Do you think this area is dusty?,263151004
+3571,394235,How many oranges?,394235000
+3572,394235,Where are the bananas?,394235001
+3573,394235,How many strawberries do you see here?,394235002
+3574,394235,What is the red fruit called?,394235003
+3575,394235,Are these oranges for sale?,394235004
+3576,394235,Are all the fruits ripe?,394235005
+3577,394235,What fruit is orange?,394235006
+3578,394235,How many fruits you see?,394235007
+3579,394235,How many fruits have stickers?,394235008
+3580,394235,Is there any vegetables in the photo?,394235009
+3581,263164,What is the man doing?,263164000
+3582,263164,What is that on the ground?,263164001
+3583,263164,What is in the man's hand?,263164002
+3584,132093,What is the bench made of?,132093000
+3585,132093,Is this cat entirely black?,132093001
+3586,132093,Does this cat appear healthy?,132093002
+3593,525312,What beverage is offered?,525312000
+3594,525312,How is the egg cooked?,525312001
+3595,525312,Does the food have a lot of calories?,525312002
+3596,525312,Is this breakfast?,525312003
+3597,545599,Where are the weeds located?,545599000
+3598,545599,What colors is the fire hydrant?,545599001
+3599,545599,Is the building in good repair?,545599002
+3600,43862,What type of dog is this?,43862000
+3601,43862,Is the dog old?,43862001
+3602,43862,What breed of dog is this?,43862002
+3603,43862,Is this a puppy?,43862003
+3604,43862,What toy is next to the dog?,43862004
+3605,43862,What is the dog chewing on?,43862005
+3606,415233,Does the water look like it is two different shades of blue?,415233000
+3607,415233,What is on the boy's left leg?,415233001
+3608,415233,What is the boy doing?,415233002
+3613,394250,Is there a skillet on the stove?,394250000
+3614,394250,What type machine is being used?,394250001
+3615,394250,What food is shown?,394250002
+3616,394250,What is this type of place?,394250003
+3617,394250,What kind of food is on the plate?,394250004
+3618,394250,Are there racks for the doughnuts?,394250005
+3619,394250,What kind of oven is this?,394250006
+3620,394250,What is being cooked?,394250007
+3621,394250,Is this a home kitchen?,394250008
+3622,394250,What kind of food is shown?,394250009
+3623,394250,How many plates are there in this picture?,394250010
+3624,394250,What is under the dishes?,394250011
+3625,394250,What is on the rack?,394250012
+3626,394250,What are they selling?,394250013
+3627,306007,What color  is the men's shirts?,306007000
+3628,306007,What is the man holding?,306007001
+3629,306007,What color is this person's shorts?,306007002
+3630,306007,What is the man doing?,306007003
+3635,525326,What color is that paper?,525326000
+3636,525326,What is this meter for?,525326001
+3637,525326,Is there a time limit?,525326002
+3638,525326,What is the sign posted on?,525326003
+3639,525326,What is the purpose of the note?,525326004
+3640,525326,What is the blue mechanism used for?,525326005
+3641,263183,What does the yellow sign mean?,263183000
+3642,263183,How many people are illustrated on the pedestrian sign?,263183001
+3643,263183,What street name is on the green and white sign?,263183002
+3648,525330,Is the man wearing a helmet?,525330000
+3649,525330,Is this a professional?,525330001
+3650,525330,Is he a professional skater?,525330002
+3651,525330,What sport is this?,525330003
+3652,525330,What type of trick is being shown?,525330004
+3653,525330,Is the man wearing sunglasses?,525330005
+3654,525330,How many people are in the image?,525330006
+3655,525330,What is the design on the man's skateboard?,525330007
+3656,525330,Where is the man skateboarding?,525330008
+3657,525330,Is he in the air?,525330009
+3658,525330,Is there any clouds?,525330010
+3659,525330,Is he a good skater?,525330011
+3660,525330,How many boys are skateboarding?,525330012
+3661,525330,Is this a skateboard park?,525330013
+3679,394264,Are these all vegetables?,394264000
+3680,394264,What vegetable is shown?,394264001
+3681,394264,How many different types of green vegetables are shown?,394264002
+3682,394264,What kind of foods are shown in the picture?,394264003
+3683,394264,How many green peppers are in the picture?,394264004
+3684,394264,Are these foods nutritious?,394264005
+3685,415236,Do you see a door?,415236000
+3686,415236,What kind of room is this?,415236001
+3687,415236,What is hanging on the wall next to the sink?,415236002
+3691,525343,What color is the truck on the right?,525343000
+3692,525343,Are the animals domesticated?,525343001
+3693,525343,Is the building yellow?,525343002
+3694,525343,How many cows are in the picture?,525343003
+3695,525343,Are the cows in the middle of a city?,525343004
+3696,394274,How many cows are shown in the first picture?,394274000
+3697,394274,Are there dogs in the paintings?,394274001
+3698,394274,What kind of animals are pictured in the paintings?,394274002
+3699,263203,Is this a cruise ship?,263203000
+3700,263203,Is the boat in the middle of the ocean?,263203001
+3701,263203,Which river is shown in the picture?,263203002
+3702,263203,Is this ship moving?,263203003
+3703,263203,What is the red building in the background?,263203004
+3704,263203,Is there a red building in the water?,263203005
+3705,132133,What is being poured in this picture?,132133000
+3706,132133,Is it raining in this picture?,132133001
+3707,132133,Is everyone seated wearing sunglasses?,132133002
+3715,135827,What do the people have in their mouths?,135827000
+3716,135827,How many hands are in the picture?,135827001
+3717,135827,What is on the person's face?,135827002
+3737,263217,IS there a book on the couch?,263217000
+3738,263217,What is the man sitting playing?,263217001
+3739,263217,Is the child wearing shoes?,263217002
+3740,263217,What is this man looking at?,263217003
+3741,263217,Is he wearing knee pads?,263217004
+3742,263217,Is this father and son?,263217005
+3743,263217,What is on the man's head?,263217006
+3744,263217,What color is the man's shirt?,263217007
+3745,263217,Is the man using a computer?,263217008
+3746,263217,What is the kid pointing to?,263217009
+3747,263217,How many kids are in the photo?,263217010
+3748,263217,What do the men have in their hands?,263217011
+3749,263217,What is the little girl doing?,263217012
+3750,263217,How many people are in the picture?,263217013
+3751,263217,Where is the child?,263217014
+3752,263217,What game is the lady playing?,263217015
+3753,263217,What gift did she get?,263217016
+3754,263217,What is the child holding?,263217017
+3755,132146,What is hanging on the stove?,132146000
+3756,132146,Is the kitchen dirty?,132146001
+3757,132146,Is the light on inside the oven?,132146002
+3758,132146,What color are all of the appliances?,132146003
+3759,132146,What is the floor made out of?,132146004
+3760,132146,Is there a dishwasher?,132146005
+3761,1076,What is the tall woman in the blue shirt doing?,1076000
+3762,1076,Is this likely in the US?,1076001
+3763,1076,What is round a white and being thrown?,1076002
+3764,525365,What color pattern is on the pole?,525365000
+3765,525365,Is the car stopped?,525365001
+3766,525365,How many striped polls are there?,525365002
+3767,525365,What color is the car?,525365003
+3768,525366,Where is this location?,525366000
+3769,525366,Are the bus and plane the same color?,525366001
+3770,525366,What vehicle is this?,525366002
+3771,132151,What is the company name on the name tag?,132151000
+3772,132151,What is the woman holding in her hand?,132151001
+3773,132151,What color top are both women wearing?,132151002
+3774,132151,What is around her wrists?,132151003
+3775,132151,What is on the counter in the background?,132151004
+3797,394309,How many elephants are in the photo?,394309000
+3798,394309,How many people are sitting on elephant?,394309001
+3799,394309,Who has a bald head?,394309002
+3800,394309,How many people are tending to the animal?,394309003
+3804,1097,What sport is being played?,1097000
+3805,1097,Is this likely from a professional tournament?,1097001
+3806,1097,What kind of ball is that?,1097002
+3807,1097,Is he wearing a hat?,1097003
+3811,263245,How many luggages in the room?,263245000
+3812,263245,What photographic effect is being used?,263245001
+3813,263245,Is the TV turned on?,263245002
+3814,263245,How many windows are there?,263245003
+3815,263245,How close is the television to the microphone?,263245004
+3816,263245,Is this in a hotel?,263245005
+3823,394321,Is there any people under the umbrella?,394321000
+3824,394321,Are there two men?,394321001
+3825,394321,Are the men alone on the beach?,394321002
+3831,279366,Are they having breakfast?,279366000
+3832,279366,How many bottles have wine in them?,279366001
+3833,279366,Are the glasses full?,279366002
+3834,279366,Are they drinking wine?,279366003
+3835,279366,How many people are sitting?,279366004
+3836,87566,What is the man doing?,87566000
+3837,87566,Is the man sad?,87566001
+3838,87566,What kind of shoes are the man wearing?,87566002
+3839,87566,Is the wearing jeans?,87566003
+3850,132186,Are the tires clean?,132186000
+3851,132186,What type of event would this vehicle be at?,132186001
+3852,132186,Who copyrighted the photo of the vehicle?,132186002
+3853,132186,What type of truck is this?,132186003
+3854,525403,What sport is this?,525403000
+3855,525403,How many players?,525403001
+3856,525403,What is he holding?,525403002
+3857,525403,Are both people playing together?,525403003
+3858,525403,Is someone filming the tennis match?,525403004
+3859,525403,What sport is he playing?,525403005
+3863,569137,What state is this vehicle from?,569137000
+3864,569137,Is there any dust bin?,569137001
+3865,569137,What's the vehicle for?,569137002
+3866,132190,Is there a tire on top of the truck?,132190000
+3867,132190,Why is there a cow on the truck?,132190001
+3868,132190,What color is the roof of the truck containing the cow?,132190002
+3876,525410,Is there an accident?,525410000
+3877,525410,What is on fire?,525410001
+3878,525410,How many cars are there?,525410002
+3879,525410,What is the yellow vehicle?,525410003
+3880,394339,What sport is shown?,394339000
+3881,394339,How many soccer balls?,394339001
+3882,394339,How many security guards are there?,394339002
+3883,394339,Is the player is action?,394339003
+3884,394339,Is there anyone wearing a tie?,394339004
+3885,394339,How many are wearing green shirts?,394339005
+3886,394339,How many security guards in highlighter jackets are there?,394339006
+3887,394339,Is there any green grasses?,394339007
+3888,394339,How many males are wearing blue jerseys?,394339008
+3889,1124,What color is the smaller building?,1124000
+3890,1124,Is there a flag in the photo?,1124001
+3891,1124,Is it daytime?,1124002
+3892,525414,Are there bars on the windows?,525414000
+3893,525414,Is it daytime?,525414001
+3894,525414,How many windows are there?,525414002
+3895,22033,What is glowing?,22033000
+3896,22033,What kind of animal is on the dash of the car?,22033001
+3897,22033,What type of car is this?,22033002
+3915,132201,What does the white sign say?,132201000
+3916,132201,What does the sign read?,132201001
+3917,132201,Is the Summerhall fence made of wrought iron?,132201002
+3918,132201,How can you make a photo in black and white?,132201003
+3919,132201,What does the sign say?,132201004
+3920,132201,What type of building would this sign be on?,132201005
+3927,394347,Is the sun shining in the picture?,394347000
+3928,394347,Is there any foam near the dog?,394347001
+3929,394347,Where are the dogs footprints?,394347002
+3930,394347,Is the dog smiling?,394347003
+3940,578739,Which player is in focus?,578739000
+3941,578739,What game is this?,578739001
+3942,578739,Are these people really old?,578739002
+3943,413406,Is she in the bike lane?,413406000
+3944,413406,What is this person riding?,413406001
+3945,413406,What is in the man's cart?,413406002
+3946,413406,Is this man for equality of women to men?,413406003
+3947,413406,Why is there no traffic on the street except the bicyclist?,413406004
+3948,413406,What is the man holding in his right hand?,413406005
+3949,413406,How many people are on the bike?,413406006
+3950,413406,What does the man have on the back of his bike?,413406007
+3951,413406,Is the person wearing a helmet?,413406008
+3952,413406,What country is this?,413406009
+3953,413406,What vehicles are the individuals driving?,413406010
+3954,413406,How many bikes are shown?,413406011
+3955,413406,Can you park a bike on the sidewalk?,413406012
+3956,413406,Is the bike rider wearing a striped shirt?,413406013
+3957,413406,What side of the rode is the cyclist on?,413406014
+3958,413406,Was this photo taken in north Korea?,413406015
+3959,413406,Is there any traffic?,413406016
+3960,218643,What is labeled Sentosa?,218643000
+3961,218643,Is there a white stripe in front of the train?,218643001
+3962,218643,Is that train green?,218643002
+3963,218643,What color is the middle train?,218643003
+3964,218643,What is the name of the train?,218643004
+3965,218643,What color is the roof of the White House?,218643005
+3966,218643,What surrounds the train?,218643006
+3967,218643,How many people live in the White House?,218643007
+3975,174953,What does the door of the truck say?,174953000
+3976,174953,What color is the truck?,174953001
+3977,174953,Is there an American flag in the picture?,174953002
+3978,174953,Do we still use these trucks?,174953003
+3985,263290,What street is this?,263290000
+3986,263290,What service is shown here?,263290001
+3987,263290,Is there an open window?,263290002
+3988,263290,What does the sign say?,263290003
+3989,263290,IS it daytime?,263290004
+3990,263290,Is there a street lamp in the picture?,263290005
+3991,263290,What does this sign mean?,263290006
+3992,263290,What kind of zone does the sign indicate?,263290007
+3993,263290,What number is on the post?,263290008
+3994,263290,How many letters are there in total?,263290009
+3995,263290,Is this a traffic light?,263290010
+3996,263290,What is written on the green sign?,263290011
+3997,263290,Was this photo taken in a store?,263290012
+3998,263290,How many languages are in this photo?,263290013
+3999,263290,What is the name of the line shown on the sign?,263290014
+4000,263290,Are the signs in English?,263290015
+4001,263290,What does the top sign say?,263290016
+4002,263290,How many signs are visible on the post in the foreground?,263290017
+4003,263290,How many signs are there?,263290018
+4007,1152,How far is the player away from second base?,1152000
+4008,1152,What color Jersey is the pitcher wearing?,1152001
+4009,1152,What time of day is this?,1152002
+4010,1152,What baseball team plays here?,1152003
+4011,1152,How many bases can you see?,1152004
+4012,1152,What cable company do you see advertised?,1152005
+4013,1152,Where are the men playing baseball?,1152006
+4014,132225,Is this person skateboarding?,132225000
+4015,132225,What is the person on the left doing?,132225001
+4016,132225,How many people are there?,132225002
+4017,132225,What is the man in the center standing on?,132225003
+4030,132230,Would this toilet be useful for its intended purpose?,132230000
+4031,132230,What kind of room is this?,132230001
+4032,132230,Why is there a plant in the toilet?,132230002
+4047,263307,What are the boys wearing?,263307000
+4048,263307,How many people are in the picture?,263307001
+4049,263307,How many of the boys are touching the wires?,263307002
+4050,263307,What is hanging on the wire in the bottom right corner?,263307003
+4051,525454,Is the floor tiled?,525454000
+4052,525454,Do they need more toilet paper?,525454001
+4053,525454,Is there any toilet paper present?,525454002
+4054,525454,Is the toilet in use?,525454003
+4055,525454,Is it pink?,525454004
+4056,170255,Does the cake have frosting on it?,170255000
+4057,170255,Does the cake have sprinkles?,170255001
+4058,170255,Is this a pizza?,170255002
+4059,170255,What is beside the cake?,170255003
+4060,170255,What is silver?,170255004
+4061,170255,How many layers is the cake?,170255005
+4062,170255,What object is the cake sitting on?,170255006
+4074,394386,How many people are riding on the elephant?,394386000
+4075,394386,Is the elephant in chains?,394386001
+4076,394386,What is in the bags the elephant is carrying?,394386002
+4077,394386,Is this in the desert?,394386003
+4078,394386,How is the man positioned on the elephant?,394386004
+4079,132243,Does the man work here?,132243000
+4080,132243,What is the man doing with the pizza?,132243001
+4081,132243,What kind of shirt is this man wearing?,132243002
+4082,132243,What is the chef to the far left holding in his left hand?,132243003
+4083,132243,What type of food is the man spooning out?,132243004
+4084,132243,Did the man cook the food?,132243005
+4085,1172,What is sitting on the chair?,1172000
+4086,1172,What color is the stuffed animal?,1172001
+4087,1172,Is the cushion the same material as the rest of the chair?,1172002
+4088,1175,What is the man doing?,1175000
+4089,1175,Is it cold?,1175001
+4090,1175,Could this person carry everything in front of him in his hands?,1175002
+4091,1175,Why does his cap say Laser?,1175003
+4092,1175,What gaming system is being played?,1175004
+4093,1175,Does he need a haircut?,1175005
+4094,1175,What color is the pinata?,1175006
+4095,1175,What is the man holding?,1175007
+4096,1175,Is the object in the center meant to be broken?,1175008
+4097,1175,Can the man see what he's doing?,1175009
+4103,22042,Is any part of the meal cooked?,22042000
+4104,22042,What is on the sandwich?,22042001
+4105,22042,What is in the plastic cup?,22042002
+4121,392812,What is the child sitting in?,392812000
+4122,392812,What letter is on the animal?,392812001
+4123,392812,How many toys is the baby holding?,392812002
+4128,1192,Is the dog going to travel with his owner?,1192000
+4129,1192,Does the dog look scared?,1192001
+4130,1192,What type of animal is shown?,1192002
+4131,1192,What is laying on the clothing?,1192003
+4132,263337,Can the cat see the time on the clock?,263337000
+4133,263337,What color is the writing on the keyboard keys?,263337001
+4134,263337,Who is the maker of the mouse?,263337002
+4135,1194,What is the color of the lamp?,1194000
+4136,1194,Are the walls bare?,1194001
+4137,1194,What room is she in?,1194002
+4138,1194,What color is the rug?,1194003
+4139,1195,Where are the bowls at?,1195000
+4140,1195,What color are the bowls?,1195001
+4141,1195,What are the bowls sitting on?,1195002
+4145,1198,Are there dishes in the sink?,1198000
+4146,1198,What room was this picture taken in?,1198001
+4147,1198,It is daytime?,1198002
+4148,1198,What kind of plant is shown on the counter?,1198003
+4153,263344,Is there a VHS player?,263344000
+4154,263344,What color is this pattern on the bedspread?,263344001
+4155,263344,Can you see the potted plant in the mirror's reflection?,263344002
+4156,263344,What room is this?,263344003
+4157,524488,How many levels is the bus?,524488000
+4158,524488,What color is the flag?,524488001
+4159,524488,What number route is the bus on?,524488002
+4160,524488,Are there people waiting to get on the bus?,524488003
+4161,524488,Is this is a city?,524488004
+4178,22046,What is the monkey sitting on?,22046000
+4179,22046,Is anything in the room made from paper?,22046001
+4180,22046,What color is the floor?,22046002
+4188,263354,Do you see television remote?,263354000
+4189,263354,What is the object by the woman's head?,263354001
+4190,263354,What is the woman doing?,263354002
+4191,263354,Is the woman laying on a bed or couch?,263354003
+4196,263356,Is this a passenger train?,263356000
+4197,263356,Does this train have windows?,263356001
+4198,263356,How many rows of trains can be seen?,263356002
+4199,263356,Is there anyone waiting for the train?,263356003
+4200,263356,What color is the front of the train?,263356004
+4204,56779,How many waves are in the water shown?,56779000
+4205,56779,What is the man using the board for?,56779001
+4206,56779,What color is the surfboard?,56779002
+4207,56779,Where was this photo taken?,56779003
+4208,56779,How many people are carrying a surfboard?,56779004
+4209,56779,What direction is the bench facing?,56779005
+4210,56779,What is the person holding under their arm?,56779006
+4211,132287,Is this grass alive?,132287000
+4212,132287,What type of animal is pictured standing in the grass?,132287001
+4213,132287,Is this a young Zebra?,132287002
+4214,132287,How many zebras are in the photograph?,132287003
+4215,132287,Does the zebra have a tail?,132287004
+4216,132287,Is the zebra turned to the right or to the left in this picture?,132287005
+4217,132287,Does the zebra look thirsty?,132287006
+4221,546336,How is the water?,546336000
+4222,546336,Is the animal drowning?,546336001
+4223,546336,What animal is in the water?,546336002
+4224,546336,Is the animal standing?,546336003
+4229,263363,What color is the oven?,263363000
+4230,263363,What kind of buttons are those?,263363001
+4231,263363,What is the person doing?,263363002
+4232,263363,Has the temperature been set yet?,263363003
+4233,263363,What kind of appliance is this?,263363004
+4234,263363,How many control knobs are there?,263363005
+4235,263364,What is the picture on the yellow sign?,263364000
+4236,263364,What is the man holding?,263364001
+4237,263364,Are there people?,263364002
+4238,263364,Will the man by the stop light stop talking on his phone before crossing?,263364003
+4239,263364,Are there any leaves on the trees??,263364004
+4240,263364,Which way is the arrow pointing?,263364005
+4241,263364,What color is the light?,263364006
+4242,263364,What should the car do?,263364007
+4243,263364,What street name is on the sign?,263364008
+4244,263364,What color is the traffic light?,263364009
+4245,263364,What is the street name?,263364010
+4246,263364,What is the word on the sign?,263364011
+4247,263365,Is it sunny?,263365000
+4248,263365,What is the name on the building?,263365001
+4249,263365,How long is the truck?,263365002
+4250,263365,What kind of truck is this?,263365003
+4251,104789,What she look happy?,104789000
+4252,104789,What is she holding?,104789001
+4253,104789,Where is the napkin?,104789002
+4254,263368,Is the street clean?,263368000
+4255,263368,Are they fixing the motorcycle?,263368001
+4256,263368,Is there traffic?,263368002
+4257,263368,What objects are in color?,263368003
+4258,263368,Is she running?,263368004
+4259,263368,Is the tailgate open or closed?,263368005
+4260,263368,What is the person doing?,263368006
+4261,263368,Are there patches of dirt?,263368007
+4262,263368,Is the cow eating from a trash can?,263368008
+4279,263374,Is there more fruit than candy?,263374000
+4280,263374,What is the name of the chocolate?,263374001
+4281,263374,Is there broccoli in the picture?,263374002
+4282,205,What is the color of the plate?,205000
+4283,205,Is there silverware present?,205001
+4284,205,How many red peppers are shown?,205002
+4297,525523,Is the zebra?,525523000
+4298,525523,Does the zebra have a mane?,525523001
+4299,525523,What are shadows of?,525523002
+4300,525523,Is the zebra in the wild?,525523003
+4301,525523,How many animals in the picture?,525523004
+4302,525523,Is the animal eating grass?,525523005
+4303,576121,What color are the countertops?,576121000
+4304,576121,Are the lights on?,576121001
+4305,576121,What type of flooring is there?,576121002
+4306,576121,What room is this?,576121003
+4307,576121,How many lights in the ceiling?,576121004
+4308,576121,How many barstools are there?,576121005
+4309,132311,What is the terrain here?,132311000
+4310,132311,How many zebras are in the water?,132311001
+4311,132311,Are all the zebras drinking water?,132311002
+4312,132311,Is a zebra looking right at the camera?,132311003
+4313,132311,How many zebras are drinking water?,132311004
+4314,132311,What are the zebras doing?,132311005
+4315,132311,Are all the zebras facing left?,132311006
+4316,132311,How many zebras are in the scene?,132311007
+4317,415268,Is the road paved?,415268000
+4318,415268,How many cones are there?,415268001
+4319,415268,What is protruding from the orange and white safety cone?,415268002
+4320,415268,What type of clouds are in the upper left?,415268003
+4321,415268,How many motorcycles are visible?,415268004
+4322,1242,Do you see the PowerPoint?,1242000
+4323,1242,Was the toilet seat left up?,1242001
+4324,1242,What material are the wall tiles made of?,1242002
+4325,263387,Which one is winning?,263387000
+4326,263387,Are there a lot of people on each boat?,263387001
+4327,263387,Are the boats in the water?,263387002
+4337,132321,Is the batter a male or female?,132321000
+4338,132321,Is he hitting the ball?,132321001
+4339,132321,What kind of court is he playing on?,132321002
+4340,132321,What league is this?,132321003
+4341,132321,Did the player just swing the bat?,132321004
+4342,132321,What language is on the baseball Jersey?,132321005
+4343,132321,What is he playing?,132321006
+4344,543627,Is he wearing sneakers?,543627000
+4345,543627,What is written on the sign?,543627001
+4346,543627,Where would you take your dirty clothing to be washed?,543627002
+4350,1252,What color is the wall behind the vase?,1252000
+4351,1252,What is holding the plants?,1252001
+4352,1252,What type of wall is this?,1252002
+4357,196445,Is the person on the ground?,196445000
+4358,196445,What color is his bracelet?,196445001
+4359,196445,What is on his feet?,196445002
+4360,196445,What is the man wearing?,196445003
+4361,196445,How many skateboarders are in the photo?,196445004
+4372,1257,Is there a baby in the crib?,1257000
+4373,1257,How many dogs are in this room?,1257001
+4374,1257,What animal is in the pet bed?,1257002
+4375,1257,Does the cat care about the dog?,1257003
+4376,525547,What is wrapped up on the motorcycle?,525547000
+4377,525547,Is the driver sitting on the motorcycle?,525547001
+4378,525547,What is on the backseat of the motorcycle?,525547002
+4379,525547,What color is bike?,525547003
+4380,525547,Is the teddy bear wearing anything?,525547004
+4384,525552,Is the pitcher striking a pose?,525552000
+4385,525552,Where is the baseball?,525552001
+4386,525552,What ball is seen?,525552002
+4387,525552,What color is the batter's helmet?,525552003
+4391,263410,How many women are not wearing hats?,263410000
+4392,263410,What color are her sunglasses frame?,263410001
+4393,263410,What color is the pull rope?,263410002
+4394,263410,How many people are wearing prescription glasses?,263410003
+4395,263410,What color hair does the woman on the left have?,263410004
+4406,394485,What is the bus passing under?,394485000
+4407,394485,Is this a double decker bus?,394485001
+4408,394485,What does the bus say?,394485002
+4415,394487,What color are the bricks?,394487000
+4416,394487,What does the clock say?,394487001
+4417,394487,What is above the clock?,394487002
+4418,262356,Is the weather cold?,262356000
+4419,262356,What is on the ground?,262356001
+4420,262356,Is she skiing?,262356002
+4421,262356,Is he going downhill?,262356003
+4422,262356,What is being tossed in the air?,262356004
+4423,132346,Is there a shadow visible?,132346000
+4424,132346,What is the design on the man's skateboard?,132346001
+4425,132346,What trick is the skater performing?,132346002
+4426,132346,Who are casting shadows on the ground?,132346003
+4427,132346,How many kids are there?,132346004
+4428,132346,What is slanted here?,132346005
+4429,132346,Is it sunny out?,132346006
+4430,132346,What time of day is this?,132346007
+4431,132346,Is this event being professionally filmed?,132346008
+4432,132346,What does the man on the skateboard's shirt say?,132346009
+4433,263421,What color is the fridge?,263421000
+4434,263421,Is this kitchen complete?,263421001
+4435,263421,Is there an oven?,263421002
+4440,394496,How many clocks?,394496000
+4441,394496,Does the clock has roman numerals?,394496001
+4442,394496,Is this Big Ben?,394496002
+4443,394496,What is the weather?,394496003
+4444,394496,Are the lights on?,394496004
+4445,394496,What is the tall building made out of?,394496005
+4446,394496,What time is on the clock?,394496006
+4447,394496,How many floors are there?,394496007
+4448,394496,Is it cloudy out?,394496008
+4453,1286,Is there more than 1 set of tracks?,1286000
+4454,1286,Is this picture blurry?,1286001
+4455,1286,What number is on this train?,1286002
+4456,1286,Is a sunny day for a train ride?,1286003
+4457,1286,What is the color of the front of the train?,1286004
+4458,1286,Are all the cars the same color?,1286005
+4459,1286,Are all of the tracks occupied?,1286006
+4476,132364,What is the person swinging?,132364000
+4477,132364,What is the man doing?,132364001
+4478,132364,How many baseballs?,132364002
+4485,525583,Is her taking a picture?,525583000
+4486,525583,What is this man doing?,525583001
+4487,525583,Is he wearing a watch?,525583002
+4488,525583,Does the man have a beard?,525583003
+4489,525583,Is this guy holding the gadget with his right or left hand?,525583004
+4490,525583,Does he realize he is holding his phone upside down?,525583005
+4491,525583,What color is his shirt?,525583006
+4495,132369,What color is the soap?,132369000
+4496,132369,What is the man in the shower trying to accomplish?,132369001
+4497,132369,What's odd in this pic?,132369002
+4498,132369,How many people are in this photo?,132369003
+4499,132369,What is the man in white playing?,132369004
+4500,132369,Is his hair short?,132369005
+4501,132369,What is hanging on the wall?,132369006
+4502,132369,What is the man on the left holding?,132369007
+4503,525586,Is she on the bus?,525586000
+4504,525586,Is it cold outside?,525586001
+4505,525586,What kind of vehicle are they sitting in?,525586002
+4506,525586,Is that a nose ring in the girls nose on the right?,525586003
+4548,1309,Where is the scale?,1309000
+4549,1309,Is this someone's home kitchen?,1309001
+4550,1309,Is there someone sitting at the table?,1309002
+4551,525598,Is the woman holding a purse?,525598000
+4552,525598,Is that a bandana on her head?,525598001
+4553,525598,Is she throwing a frisbee?,525598002
+4554,525598,IS she outside?,525598003
+4559,394530,What color is the man's hat?,394530000
+4560,394530,What sport is this?,394530001
+4561,394530,What color is the racket?,394530002
+4562,394530,What is the blue band on the man's wrist for?,394530003
+4566,132388,How many cell phones is this man holding?,132388000
+4567,132388,What does he have on?,132388001
+4568,132388,What happened to the man?,132388002
+4569,132388,Are then in a parking lot?,132388003
+4570,132388,Are any of those cell phones smartphones?,132388004
+4571,132388,Is the man wearing a striped shirt?,132388005
+4572,132388,What is the man holding?,132388006
+4599,308833,Where is the cat sleeping?,308833000
+4600,308833,Is the cat black and white?,308833001
+4601,308833,What keyboard light is on?,308833002
+4609,525620,Are these toilets operable at the moment?,525620000
+4610,525620,How many toilets do you see?,525620001
+4611,525620,Is that a bathroom?,525620002
+4616,357935,Is the boat out of water?,357935000
+4617,357935,What is the name of the boat?,357935001
+4618,357935,Is this a sailboat?,357935002
+4619,525626,Which utensils can be seen?,525626000
+4620,525626,What are the red onions in?,525626001
+4621,525626,Is this a birthday cake?,525626002
+4622,525626,Is she eating pasta?,525626003
+4623,525626,What is orange on salad?,525626004
+4624,525626,What makes the food shine?,525626005
+4625,525626,What are the red things beneath the salad mix?,525626006
+4626,525626,What type of food is on the white plate?,525626007
+4627,525626,What is the orange veggie?,525626008
+4628,525626,How many croutons are there?,525626009
+4629,525626,Is this a vegetarian meal?,525626010
+4630,525626,What's his hand?,525626011
+4631,525626,Are there cucumbers in the salad?,525626012
+4632,525626,What's on the plate?,525626013
+4633,525626,What utensil is seen?,525626014
+4634,525626,What is in the tea cup?,525626015
+4635,525626,What type of fruit are those green slices called?,525626016
+4636,525626,How many types of veggies are there?,525626017
+4637,525626,What utensil is shown?,525626018
+4638,525626,Is the food sour?,525626019
+4639,525626,What fruit are on the plate?,525626020
+4640,525626,Which hand is in the picture?,525626021
+4641,525626,What is the green fruit called?,525626022
+4642,525626,What type of dressing is shown?,525626023
+4643,525626,Is this a healthy meal?,525626024
+4644,525626,Is the green vegetable a cucumber?,525626025
+4645,525626,What food is on the plate?,525626026
+4646,525626,Are these fruits or vegetables?,525626027
+4647,525626,What is the man cutting?,525626028
+4648,525626,What utensil is on the plate?,525626029
+4649,525626,What utensil is the person holding?,525626030
+4650,525626,How long should the vegetables be cooked for?,525626031
+4672,263487,Are there any apples?,263487000
+4673,263487,What material is the orange sitting on?,263487001
+4674,263487,What does the sticker on the banana say?,263487002
+4675,263487,Where are the oranges?,263487003
+4676,263487,Are the fruits being balanced?,263487004
+4677,263487,Do these look cooked?,263487005
+4678,263487,Would a local-food enthusiast in Maine eat this food?,263487006
+4679,263487,Are the bananas bad?,263487007
+4680,132416,How many people are in ground?,132416000
+4681,132416,Is this a craft fair?,132416001
+4682,132416,What type of event is this?,132416002
+4683,132416,How many tents can be seen?,132416003
+4684,132416,What kind of trees are these?,132416004
+4685,132416,What objects are in the sky?,132416005
+4686,132416,What are the people standing on?,132416006
+4687,132416,What are the people sitting on in the background?,132416007
+4688,132416,Is this a sunny day or cloudy?,132416008
+4689,132416,Is this a relaxing picture?,132416009
+4690,132416,Where are the people seated?,132416010
+4691,132416,Is there water visible?,132416011
+4692,132418,How many people in beach?,132418000
+4693,132418,What do you see in the distance behind the surfers?,132418001
+4694,132418,How clear is the sky?,132418002
+4695,132418,What is pictured in the distance?,132418003
+4696,132418,Is it going to rain?,132418004
+4697,132418,Is the person swimming?,132418005
+4698,132418,Is the water turbid or still?,132418006
+4699,132418,Is it hot or cold?,132418007
+4700,132418,Are both surfboards white?,132418008
+4701,132418,Is anyone swimming in the water?,132418009
+4702,487959,Is the desk a clutter?,487959000
+4703,487959,Where is the typewriter?,487959001
+4704,487959,Is this a color photograph?,487959002
+4705,487959,Is there an 8.5x11 size paper in the typewriter?,487959003
+4736,132428,What are the people eating?,132428000
+4737,132428,How many people in the photo are eating?,132428001
+4738,132428,How many people are visible in the photo?,132428002
+4739,524514,Why do people have umbrellas?,524514000
+4740,524514,What is the man standing under?,524514001
+4741,524514,Are there posters on the wall?,524514002
+4742,524514,Are there bikes in the picture?,524514003
+4743,524514,How many people are in the photo?,524514004
+4744,524514,Is this a kite runner?,524514005
+4748,525649,How many yaks are looking towards the camera?,525649000
+4749,525649,How many horses are there?,525649001
+4750,525649,Is this a pony or a horse?,525649002
+4751,525649,Is this a Shetland pony?,525649003
+4752,525649,Is the horse standing on grass?,525649004
+4753,525649,What color is the grass the horses are standing on?,525649005
+4754,525649,What color is on the horse's forehead?,525649006
+4755,525649,What would you need to put on these animals' backs before riding them?,525649007
+4756,525649,Are these animals horses or ponies?,525649008
+4757,525649,Is the horse in wild and free to go?,525649009
+4758,525649,Does the person have a hat on?,525649010
+4759,525649,Does this animal have horns?,525649011
+4760,1362,Where is the Satanic number?,1362000
+4761,1362,Are there trees in the background?,1362001
+4762,1362,What are the last four digits of the printed phone number?,1362002
+4763,1363,Is there any broccoli in the dish?,1363000
+4764,1363,Is the meat beef or chicken?,1363001
+4765,1363,How would this meal taste?,1363002
+4772,1367,Is this a trained skateboarder?,1367000
+4773,1367,What color are the flowers in the background?,1367001
+4774,1367,Has the skateboard touched the concrete yet?,1367002
+4775,1367,Is the man being observed?,1367003
+4776,1367,What is the skateboarder doing?,1367004
+4777,1367,How many wheels are on the ground?,1367005
+4778,1367,Which direction is the man skating in?,1367006
+4779,1367,Is the skateboarder on the ground?,1367007
+4780,240094,What is the shadow of?,240094000
+4781,240094,What is she wearing on her knee?,240094001
+4782,240094,Who is videotaping the border?,240094002
+4783,240094,Is that a old clothes line in the back?,240094003
+4784,240094,Is the person standing in the correct spot for serving?,240094004
+4785,240094,What color is the woman's visor?,240094005
+4786,240094,What sport are they playing?,240094006
+4787,240094,Where is the ball?,240094007
+4788,240094,Are the lights on?,240094008
+4789,240094,Where is this located?,240094009
+4790,240094,What color racket is the girl on the left holding?,240094010
+4791,240094,What is the woman holding in her right hand?,240094011
+4792,240094,What is she doing?,240094012
+4793,240094,Is he going fast?,240094013
+4794,240094,Are they both wearing the same color shorts?,240094014
+4798,1371,How many tusks does this elephant have?,1371000
+4799,1371,What time of year is it in this picture?,1371001
+4800,1371,What color is the background?,1371002
+4801,263518,What does the tie look like?,263518000
+4802,263518,Would you wear this outfit to a job interview at a bank?,263518001
+4803,263518,What is the girl holding?,263518002
+4807,263522,Is this a slow moving object?,263522000
+4808,263522,Is the plane upside down?,263522001
+4809,263522,Are the wheels down or up?,263522002
+4810,263522,What color is the plane?,263522003
+4811,263522,Would this plane be able to land on water?,263522004
+4812,263522,Is this a manned plane or a UAV?,263522005
+4818,1380,What breed are the sheep?,1380000
+4819,1380,What kind of clouds are in the sky?,1380001
+4820,1380,What is in the photo aside from sheep?,1380002
+4821,132455,What is in the air?,132455000
+4822,132455,What color is the lowest part of the horizon?,132455001
+4823,132455,Are there more than one variety of flowers?,132455002
+4824,132455,Does this plan appear to be taking off or landing?,132455003
+4825,132455,How many airplanes?,132455004
+4826,132455,Is the sun rising or setting?,132455005
+4827,132455,Are the birds higher in the sky than the sun?,132455006
+4828,132455,Is the sun setting?,132455007
+4829,132455,Is the airplane flying over a city?,132455008
+4830,1385,What are the crows perched on?,1385000
+4831,1385,How many crows are pictured?,1385001
+4832,1385,How many birds?,1385002
+4833,1385,What are the birds standing on?,1385003
+4834,394602,Is he wearing pants?,394602000
+4835,394602,What is on the boy's head?,394602001
+4836,394602,What color are the wheels on the skateboard?,394602002
+4845,132461,What is the guy holding?,132461000
+4846,132461,Is the combing his hair?,132461001
+4847,132461,Does he have a beard?,132461002
+4848,132461,How many wristbands does he have?,132461003
+4849,132461,Why would someone do this?,132461004
+4850,132461,Is this person angry?,132461005
+4851,525679,Is this a shopping center?,525679000
+4852,525679,What color is the shirt of the person crossing the street?,525679001
+4853,525679,What is going in a row along the top of both buildings?,525679002
+4858,525683,What is the person doing?,525683000
+4859,525683,Is he riding a wave?,525683001
+4860,525683,Is this person standing up?,525683002
+4861,525683,Can this kid swim far into the water?,525683003
+4862,525683,What is the individual standing on?,525683004
+4863,525683,What is the person carrying?,525683005
+4864,525683,What is the hair color of the body board rider?,525683006
+4865,525683,Is the boy swimming in a pool?,525683007
+4866,525683,Is the man surfing?,525683008
+4867,525683,Is he holding a surfboard?,525683009
+4868,525683,Who is wearing the most comfortable swimming attire?,525683010
+4869,525683,What water sport is on display here?,525683011
+4870,525683,What is he riding?,525683012
+4871,525683,What sport is this?,525683013
+4872,525683,Is the boy wearing a wetsuit?,525683014
+4873,525683,What is the surfer standing on?,525683015
+4874,525683,Is he wearing a wetsuit?,525683016
+4875,525683,Is he wearing a short sleeve shirt?,525683017
+4876,525683,Are there flowers on his shorts?,525683018
+4877,525683,What color is the boys swimming trunks?,525683019
+4878,525683,Does the surfer have light or dark hair?,525683020
+4879,525683,Is he catching a wave?,525683021
+4880,525683,Does he have blue paint on his head?,525683022
+4881,525683,What season is it?,525683023
+4882,525683,Is he surfing?,525683024
+4883,525683,What is this person doing?,525683025
+4884,525683,What color clothes does the man have on?,525683026
+4885,525683,What ethnicity is that person?,525683027
+4886,525683,What is the individual in the image doing?,525683028
+4887,525683,Has the boy surfed before?,525683029
+4892,525687,What is the lady wearing?,525687000
+4893,525687,Is it dark outside?,525687001
+4894,525687,Is this a lab?,525687002
+4895,502676,What brand is the laptop?,502676000
+4896,502676,Are they both laptops?,502676001
+4897,502676,How many screens are on?,502676002
+4898,263546,Which animal does the cloth on the ladder resemble?,263546000
+4899,263546,What kind of bed is this?,263546001
+4900,263546,Does the little girl have pajamas on?,263546002
+4904,132479,Is there another tool in this picture that would be better suited for this task?,132479000
+4905,132479,Are the countertops granite?,132479001
+4906,132479,What is the individual cutting?,132479002
+4907,132479,What vegetable is being cut?,132479003
+4908,132479,Is this a healthy food?,132479004
+4909,284224,Are the zebras playing?,284224000
+4910,284224,How many zebras are in the picture?,284224001
+4911,284224,Are these zebroids?,284224002
+4912,263554,What brand of laptop is the man using?,263554000
+4913,263554,What else is the man consulting besides a laptop?,263554001
+4914,263554,Is this picture taken through a window?,263554002
+4915,263554,What is he doing?,263554003
+4916,1411,How many tires can be seen in the picture?,1411000
+4917,1411,What is the bus license plate?,1411001
+4918,1411,Is the color of the buses blue and white?,1411002
+4942,1418,What color is the man's shirt?,1418000
+4943,1418,How many buttons are on the man's shirt?,1418001
+4944,1418,What is above the man's lips?,1418002
+4945,1418,What does the man have over his eyes?,1418003
+4946,1418,What color shirt is he wearing?,1418004
+4947,1418,Is the man wearing glasses?,1418005
+4948,1418,What pattern is the man's tie?,1418006
+4949,1418,Does this man have facial hair?,1418007
+4950,1418,Does this person have a mustache?,1418008
+4951,1418,Are office cubicle's visible in this picture?,1418009
+4952,1418,What color is the man's tie?,1418010
+4953,1418,Is he wearing glasses?,1418011
+4954,1418,Does the man have facial hair?,1418012
+4955,1418,What color is the tie?,1418013
+4956,1418,Is the tie yellow?,1418014
+4963,263569,Are the chefs wearing hats?,263569000
+4964,263569,Are these characters made out of fruit?,263569001
+4965,263569,How many pineapples are visible?,263569002
+4966,132498,Is he skiing?,132498000
+4967,132498,Is this a skier?,132498001
+4968,132498,What is the man standing on?,132498002
+4969,132498,Is the skier wearing goggles?,132498003
+4982,525718,Is there a window in the background?,525718000
+4983,525718,Is the candle lit?,525718001
+4984,525718,What is in the glass vessel?,525718002
+4999,132508,What color is the cat?,132508000
+5000,132508,What is this picture of?,132508001
+5001,132508,What is the person holding?,132508002
+5002,132508,What animal is the person holding the shoes up to?,132508003
+5003,132508,How many pairs of high heels can be seen?,132508004
+5004,132508,Is somebody packed to go somewhere?,132508005
+5005,132508,Are the sneakers colored red?,132508006
+5006,132508,What animal is represented?,132508007
+5007,263581,Why are the polar bears in open space?,263581000
+5008,263581,How many bears are there?,263581001
+5009,263581,What is covering the ground?,263581002
+5010,263581,Are the polar bears swimming?,263581003
+5011,1439,How many dogs are on the beach?,1439000
+5012,1439,What color is the frisbee?,1439001
+5013,1439,Where are all of these people right now?,1439002
+5030,1444,Why is it easier to see one boat than the others?,1444000
+5031,1444,What is the name of the boat closest to you?,1444001
+5032,1444,What word is written on the ship?,1444002
+5033,1444,What kind of boats are docked together on the right side of the picture?,1444003
+5034,1444,What type of boat is this?,1444004
+5035,1444,Is there enough water to sail a ship?,1444005
+5036,1444,Do you like the ships?,1444006
+5037,1444,What's in the background?,1444007
+5038,1444,Is this a water taxi?,1444008
+5039,1444,Why are the boats docked?,1444009
+5040,1444,Is there a mountain in the background?,1444010
+5041,1444,How many total sails can you see?,1444011
+5042,1444,What time of day does this look like?,1444012
+5043,1444,Are there clouds in the sky?,1444013
+5044,1444,What color is the hull of the boat in the foreground?,1444014
+5045,1444,How many boats are there?,1444015
+5046,1444,Is the weather good for sailing?,1444016
+5047,1444,What is on the dock?,1444017
+5048,1444,What type of transportation is visible?,1444018
+5049,394661,What is the officer drinking?,394661000
+5050,394661,Are the officers in a squad car?,394661001
+5051,394661,Is it hot out?,394661002
+5064,394667,Are there clothes laying around in the room?,394667000
+5065,394667,What kind of furniture is the dog laying on?,394667001
+5066,394667,What Pattern is the comforter?,394667002
+5067,263598,IS the bear wearing a hat?,263598000
+5068,263598,Are the bear's eyes the same color of the chair?,263598001
+5069,263598,What pattern is on the pillow?,263598002
+5070,240541,Where is the man?,240541000
+5071,240541,Is this woman laying on top of the bed?,240541001
+5072,240541,Is the light on?,240541002
+5073,240541,Will all of the clothes fit in that suitcase?,240541003
+5074,240541,How many people are on the bed?,240541004
+5075,240541,Why are the clothes on the floor?,240541005
+5076,240541,Is there a mirror?,240541006
+5086,139713,Is this at a festival?,139713000
+5087,139713,What are the people in the background buying?,139713001
+5088,139713,Is there any people with tie?,139713002
+5089,1459,How many people are visible?,1459000
+5090,1459,What is the man holding?,1459001
+5091,1459,Is the man on the computer wearing a wedding ring?,1459002
+5092,1459,Are the laptops identical?,1459003
+5093,1459,What show is the man watching?,1459004
+5111,132534,Is the dog scared?,132534000
+5112,132534,Does this dog have air to breath in this parked car?,132534001
+5113,132534,Is the car locked?,132534002
+5114,132534,What is the name of the store in the background?,132534003
+5115,132534,What is in the vehicle?,132534004
+5116,132534,What color is the truck?,132534005
+5117,132534,Is the dog driving?,132534006
+5118,132535,How deep is the snow?,132535000
+5119,132535,Are there rocks in the back?,132535001
+5120,132535,Is this person performing a stunt?,132535002
+5121,132535,What type of trees are in the background?,132535003
+5125,365754,Who owns this photo?,365754000
+5126,365754,Does the woman have a phone in her hand?,365754001
+5127,365754,Is the girl smiling?,365754002
+5128,365754,Does the smiling woman have her hair down?,365754003
+5129,263611,How many towels are visible in the mirror?,263611000
+5130,263611,Is the cat laying on a shelf?,263611001
+5131,263611,How many cats are there?,263611002
+5132,263611,Is the cat comfortable?,263611003
+5133,263611,What room is this?,263611004
+5147,563902,How many straws are there?,563902000
+5148,563902,Does this man have any alcoholic beverages?,563902001
+5149,563902,What is the man eating?,563902002
+5162,525765,What color is the brush?,525765000
+5163,525765,Is there a pen on the table?,525765001
+5164,525765,What is the most useful tool the person carried in their bag?,525765002
+5165,525769,What can be seen in the background?,525769000
+5166,525769,Are all the cows eating?,525769001
+5167,525769,Where might the cows get water to drink?,525769002
+5168,525769,Is there a fence?,525769003
+5169,525769,How many different color cows do you see?,525769004
+5170,525769,Do any animals have horns?,525769005
+5171,1482,What is the name of the logo on the motorcycle in the front?,1482000
+5172,1482,What color is the jacket?,1482001
+5173,1482,What color are the wheels?,1482002
+5174,525771,Will the surfer fall?,525771000
+5175,525771,How big is the wave?,525771001
+5176,525771,What is the person standing on?,525771002
+5177,525771,Is someone surfing?,525771003
+5178,525774,Is this a baby panda?,525774000
+5179,525774,What colors are the panda?,525774001
+5180,525774,Is the panda relaxed?,525774002
+5181,525774,What type of animal is this?,525774003
+5182,525774,Where is the panda from?,525774004
+5193,1492,How many headlights are off?,1492000
+5194,1492,What color is the front of the motorcycle?,1492001
+5195,1492,Does the man have a tattoo?,1492002
+5196,1492,Is anyone currently moving?,1492003
+5197,32307,What food is that?,32307000
+5198,32307,Is this food sweet?,32307001
+5199,32307,Is the man wearing a backpack?,32307002
+5200,1494,What is located in the background of the picture?,1494000
+5201,1494,"Relative to the lamp post, how tall is the green truck?",1494001
+5202,1494,What does the sign say?,1494002
+5203,1494,Is this picture taken in the United States?,1494003
+5204,1494,What company owns the red truck?,1494004
+5205,1494,Is it cloudy?,1494005
+5206,1494,What is the weather like?,1494006
+5207,1494,What kind of trucks are these?,1494007
+5208,1494,Is this a train?,1494008
+5209,394711,Are there a lot of people?,394711000
+5210,394711,Do you see the motorcycle?,394711001
+5211,394711,How many flags are there?,394711002
+5212,394711,Is there a clock in the tower?,394711003
+5213,394711,What city was the picture taken in?,394711004
+5214,394711,What is at the top of the tower?,394711005
+5215,394711,What color is the roof?,394711006
+5216,394711,What color is the clock face on the tower?,394711007
+5217,394711,What is on the two walls of the building?,394711008
+5218,394711,What city is this located in?,394711009
+5219,394711,How many flags are shown?,394711010
+5220,394711,How many stories is the tower?,394711011
+5221,394711,Are those cars?,394711012
+5222,394711,Is it about to rain?,394711013
+5223,394711,How many clocks do you see on the tower?,394711014
+5224,394711,Is there a blue door?,394711015
+5225,394711,What time is it?,394711016
+5226,394711,Is there any traffic?,394711017
+5227,394711,What time does this clock say?,394711018
+5228,394711,Is this place deserted?,394711019
+5229,394711,What famous clock is this?,394711020
+5230,394711,How many stories is the gray building?,394711021
+5234,525787,What is she holding?,525787000
+5235,525787,Do she has gray hair?,525787001
+5236,525787,What color is the woman's hair?,525787002
+5237,525787,What is the woman looking at?,525787003
+5238,525787,How overweight is she?,525787004
+5242,263645,What kind of bird is shown?,263645000
+5243,263645,IS this a before and after photo?,263645001
+5244,263645,Is the bird destroying the mouse?,263645002
+5245,263645,Is the bird a solid color?,263645003
+5253,135350,What is the paper bag doing on the floor?,135350000
+5254,135350,Are these roller skates?,135350001
+5255,135350,Is the person wearing black laces?,135350002
+5307,394727,Does the man have long hair?,394727000
+5308,394727,What is this person's hair texture?,394727001
+5309,394727,What direction are the stripes on this man's shirt?,394727002
+5310,394727,Is the man wearing a tie?,394727003
+5311,525800,Is this outside?,525800000
+5312,525800,What is the surfer doing?,525800001
+5313,525800,Is there any foam on the water?,525800002
+5321,394730,Is the man doing a grind?,394730000
+5322,394730,What activity is this man engaged in?,394730001
+5323,394730,Are there any clouds in the sky?,394730002
+5324,394730,Is there graffiti in the picture?,394730003
+5325,394730,What is on the man's head?,394730004
+5326,394730,What safety gear is visible on the skateboarder?,394730005
+5338,263665,Are there beds on the train?,263665000
+5339,263665,What transportation is being used here?,263665001
+5340,263665,What color are the blankets?,263665002
+5355,393470,What is the man eating?,393470000
+5356,393470,What piece of silverware is the man using?,393470001
+5357,393470,Does the man need to shave?,393470002
+5363,497606,What type of bird is visible?,497606000
+5364,497606,Can you see both of the birds eyes?,497606001
+5365,497606,What does the weather look like?,497606002
+5366,497606,Are there leaves in the picture?,497606003
+5367,497606,How many birds are here?,497606004
+5368,497606,What are the birds on?,497606005
+5369,497606,Does the bird have a long tail?,497606006
+5370,497606,Is the bird moving or resting?,497606007
+5371,497606,Is this bird male or female?,497606008
+5372,497606,What color are the birds?,497606009
+5386,132602,What color is the sleepy's sign?,132602000
+5387,132602,Is that a train?,132602001
+5388,132602,Is this a German bus stop?,132602002
+5389,132602,How many cars do you see?,132602003
+5390,132602,What is the race of the man on the advertisement in the foreground?,132602004
+5394,525821,Is there a clock?,525821000
+5395,525821,What time is it on this picture?,525821001
+5396,525821,What time is it on the clock?,525821002
+5397,525821,Are the lights on?,525821003
+5398,525821,Is this hallway dark?,525821004
+5399,525821,How many people are there?,525821005
+5400,525821,What time is on the clock?,525821006
+5401,525821,How many pillars are there?,525821007
+5402,525821,How many lights are there?,525821008
+5403,525821,What is the type of lighting in the ceiling?,525821009
+5404,525821,What is the time shown on the clock?,525821010
+5408,394752,Is this a professional tennis match?,394752000
+5409,394752,What color are the player's clothes?,394752001
+5410,394752,Is the man about to serve the ball?,394752002
+5411,218277,Which animal is the youngest?,218277000
+5412,218277,Does the tree closest have leaves on it?,218277001
+5413,218277,How many giraffes are there?,218277002
+5414,218277,What color is their fur?,218277003
+5418,175019,Is the human male or female?,175019000
+5419,175019,How many cubs are in the photo?,175019001
+5420,175019,Is the surface paved asphalt?,175019002
+5421,175019,Are these pets?,175019003
+5422,175019,What are they doing to the cat?,175019004
+5423,175019,What animal is present?,175019005
+5433,394758,Why are there scissors on a pile of fruit?,394758000
+5434,394758,What color are the scissors?,394758001
+5435,394758,What fruit are in the photo?,394758002
+5436,327937,What is the flower near the bird?,327937000
+5437,327937,Who took this picture?,327937001
+5438,327937,What type of bird is this?,327937002
+5439,327937,What is the bird sitting on?,327937003
+5440,327937,How many birds?,327937004
+5441,263688,What color are the license plates?,263688000
+5442,263688,Is there an emergency vehicle?,263688001
+5443,263688,Is it a sunny day?,263688002
+5444,263688,Who is the manufacturer of the vehicle in front of the camera?,263688003
+5445,263688,Is it going to rain?,263688004
+5446,263688,Is there a yellow car on the street?,263688005
+5447,263688,What is the weather?,263688006
+5448,263688,What vehicle type is right ahead of this driver?,263688007
+5449,263688,What type of vehicle is this?,263688008
+5450,263688,What is drawn around the arrow?,263688009
+5451,263688,Is the car stopped?,263688010
+5452,263688,How many cars are there?,263688011
+5458,525835,What is written on the stop sign?,525835000
+5459,525835,Is there a bus in the background?,525835001
+5460,525835,What shape is the stop sign?,525835002
+5461,525835,Are there people watching?,525835003
+5462,525835,Are the tree leaves covering park of the sign?,525835004
+5469,1550,Where is the water coming from?,1550000
+5470,1550,Is this a toilet?,1550001
+5471,1550,Is  there a hole in the floor?,1550002
+5472,1550,Is it clean?,1550003
+5473,1550,Where does the toilet paper go in this picture?,1550004
+5474,1551,What color is the carpet?,1551000
+5475,1551,Are these important people?,1551001
+5476,1551,What branch of military is represented in this picture?,1551002
+5480,525846,Are the boys jumping up to the sign?,525846000
+5481,525846,How many suitcases are in the picture?,525846001
+5482,525846,What kind of bag is the blue one?,525846002
+5483,525846,Is there a red suitcases?,525846003
+5484,525846,What is the boy standing in?,525846004
+5485,525846,Do you see vehicle?,525846005
+5486,525846,Is this a bus stop?,525846006
+5487,525846,How many pieces of luggage are visible in the photograph?,525846007
+5488,525846,Are the doors closed?,525846008
+5489,525846,Is there anyone in the truck?,525846009
+5490,525846,Is this a bathroom?,525846010
+5491,525846,What is beside the moving truck?,525846011
+5492,525846,What are the suitcases laying on?,525846012
+5493,525846,Are the suitcases empty?,525846013
+5494,525846,Are there people on the train?,525846014
+5495,525846,Are they loading or taking the suitcases out?,525846015
+5496,525846,What are they on?,525846016
+5497,525846,How many luggage bags do you see?,525846017
+5498,525846,What is the color of the train?,525846018
+5499,525846,What is this photo of?,525846019
+5500,525846,What color is the child's shirt?,525846020
+5501,525846,Is the vehicle for use?,525846021
+5502,525846,What color is the train?,525846022
+5503,525846,Does the boy have his hands up?,525846023
+5504,525846,Is it summer?,525846024
+5505,525846,Is that a restaurant?,525846025
+5506,525846,Where is this taken?,525846026
+5507,525846,Where does this item belong?,525846027
+5508,525846,How many suitcases are there?,525846028
+5509,525846,What type of pants is the boy wearing?,525846029
+5510,525846,How many kids are there?,525846030
+5511,525846,Is this man going to ride inside the truck?,525846031
+5512,525846,What is the appliance laying on?,525846032
+5513,132631,What is on the bus?,132631000
+5514,132631,Will the wipers on the bus remove the accumulated snow at the bottom of the windshield?,132631001
+5515,132631,Is the bus stranded?,132631002
+5516,110160,What is this trick called?,110160000
+5517,110160,Is he dancing in the air?,110160001
+5518,110160,What color is the skateboard?,110160002
+5519,263706,Is it raining outside?,263706000
+5520,263706,Did he hit the ball?,263706001
+5521,263706,Is the man wearing a hat?,263706002
+5522,263706,What sport is being played?,263706003
+5523,263706,How crowded is the stadium?,263706004
+5524,263706,Is that a batter?,263706005
+5525,263706,Is the player holding the bat with both hands?,263706006
+5526,263706,What color is the catcher's shirt?,263706007
+5527,263706,Is anyone in the crowd wearing a dress?,263706008
+5528,263706,What color is the batter's uniform?,263706009
+5529,263706,Are the stands filled with people?,263706010
+5530,263706,What color are the seats?,263706011
+5531,132635,Where is the cold sky?,132635000
+5532,132635,Is it likely warm outside?,132635001
+5533,132635,Are these women dressed for winter weather?,132635002
+5534,132635,Is the snowfall thick?,132635003
+5556,410317,Is she talking on the phone?,410317000
+5557,410317,Is this a boy or a girl?,410317001
+5558,410317,Is the woman dressed formally?,410317002
+5559,410317,What flower has the same name as the position the woman is sitting in?,410317003
+5560,132643,Is the picture colorful?,132643000
+5561,132643,Is this a loon?,132643001
+5562,132643,Is the bird swimming?,132643002
+5563,535097,Are there bugs in the grass ?,535097000
+5564,535097,What type of neighborhood is this?,535097001
+5565,535097,Does the little boy have black hair?,535097002
+5566,535097,Where is the dog?,535097003
+5593,132653,What color is the moped?,132653000
+5594,132653,What type of bike is this?,132653001
+5595,132653,What color bike?,132653002
+5596,132653,Is the vehicle outdoors?,132653003
+5597,394798,What type of plane is this?,394798000
+5598,394798,Is it sunny?,394798001
+5599,394798,What is the color on the tail of the plane?,394798002
+5600,394798,Does this picture look yellow?,394798003
+5601,1583,How many beds are visible?,1583000
+5602,1583,Is this a 4 star hotel?,1583001
+5603,1583,Who is holding the wine glass?,1583002
+5604,1583,Is this a hotel?,1583003
+5611,394803,Is it a wedding?,394803000
+5612,394803,How many tiers does the cake have?,394803001
+5613,394803,Is the cake real or fake?,394803002
+5614,394803,Does the man have a hat on?,394803003
+5615,131337,How many feet can be seen?,131337000
+5616,131337,What kind of bird is this?,131337001
+5617,131337,Is this a small bird?,131337002
+5618,131337,Where is the bird flying?,131337003
+5619,263736,What brand is the mix?,263736000
+5620,263736,What flavor is the smoothie mix?,263736001
+5621,263736,What will be made with the bananas?,263736002
+5631,525882,Is this man giving a rude gesture?,525882000
+5632,525882,What color is the man's shirt?,525882001
+5633,525882,Does the boy have a mark on his elbow?,525882002
+5634,525882,What is in the man's mouth?,525882003
+5656,394815,How many umpires are there?,394815000
+5657,394815,What side of the plate is the hitter on?,394815001
+5658,394815,Is this an American game?,394815002
+5659,394815,What sport is being played?,394815003
+5660,1600,How many rolls of toilet paper are pictured?,1600000
+5661,1600,What is the cat doing?,1600001
+5662,1600,Is the cat's tail in the water?,1600002
+5671,525892,Is this a hand painted cup?,525892000
+5672,525892,What animal is printed on the cup?,525892001
+5673,525892,What colors are in the design?,525892002
+5674,175030,Are there dishes present?,175030000
+5675,175030,Is there a scale?,175030001
+5676,175030,Did the cat open the window?,175030002
+5677,227837,How many different animals are in this picture?,227837000
+5678,227837,Is that a real butterfly?,227837001
+5679,227837,What animal is behind the curtain?,227837002
+5680,227837,Is the cat looking at the moon?,227837003
+5681,227837,What are the flowers in?,227837004
+5691,502711,Is the person wearing a hat?,502711000
+5692,502711,Was the picture taken in a park?,502711001
+5693,502711,Why is this person holding a kite?,502711002
+5697,263757,Is it a dry land or wet?,263757000
+5698,263757,Which direction is the animal looking at?,263757001
+5699,263757,How many different types of animals are in this picture?,263757002
+5700,263757,What country is this in?,263757003
+5715,394833,What is the term for the clear serving tool that is on top of the food tray on the right?,394833000
+5716,394833,What is on the center balloon?,394833001
+5717,394833,Is a party going on?,394833002
+5718,394835,Was the bread sliced lengthwise or width-wise?,394835000
+5719,394835,What is the white stuff around the edges of the pizza?,394835001
+5720,394835,Is the food hot or cold?,394835002
+5721,394835,Is the egg sunny side up?,394835003
+5744,263773,Is there a cat in this picture?,263773000
+5745,263773,What color is the desk?,263773001
+5746,263773,Does the desk look messy?,263773002
+5747,263773,Is this a man's desk?,263773003
+5748,263773,How many glue bottles are in the picture?,263773004
+5749,394846,Can a child who just learned to tell time easily read time on this clock?,394846000
+5750,394846,The 12-pointed rosette is a design that is most commonly found in which part of the world?,394846001
+5751,394846,What time is it?,394846002
+5752,394846,What color are the clock's hands?,394846003
+5753,394846,What letters appear on the clock?,394846004
+5754,394846,What color is the clocks face?,394846005
+5755,394846,What color is the building?,394846006
+5756,525919,Does the elephant have tusks?,525919000
+5757,525919,Is the elephant in the wild?,525919001
+5758,525919,How many elephants are there?,525919002
+5848,132708,What sport is this?,132708000
+5849,132708,Are there any girls playing soccer?,132708001
+5850,132708,Does somebody have a green shoe?,132708002
+5851,132708,Is that guy wearing a cap?,132708003
+5852,132708,What sport is being played?,132708004
+5853,132708,What kind of ball is on the ground?,132708005
+5854,525925,What are the people on the bench doing?,525925000
+5855,525925,Is this a happy couple?,525925001
+5856,525925,What is behind the girl?,525925002
+5857,525925,How many people are on the bench?,525925003
+5858,525926,What color shoe is she wearing?,525926000
+5859,525926,What is covering the ground?,525926001
+5860,525926,Is the ground starting to become visible under the snow?,525926002
+5861,525926,What color jacket is the person wearing?,525926003
+5862,394855,What are they doing?,394855000
+5863,394855,What color shirt is the batter wearing?,394855001
+5864,394855,What are the people playing with?,394855002
+5865,394855,Is this a professional stadium?,394855003
+5866,394855,What type of ball?,394855004
+5867,394855,What is in the sky?,394855005
+5868,394855,Did the batter just hit the ball?,394855006
+5869,394855,Are there chalk lines on the grass?,394855007
+5870,394855,What is the man in the red jacket doing?,394855008
+5871,394855,What sport is he playing?,394855009
+5891,175037,What color is his helmet?,175037000
+5892,175037,What is the person doing?,175037001
+5893,175037,What is he doing?,175037002
+5894,175037,What is written on the back of the players Jersey?,175037003
+5895,175037,What is the player doing with the bat?,175037004
+5896,394865,What type of animals are they?,394865000
+5897,394865,What are the animals doing?,394865001
+5898,394865,Do both animals kick with their hind legs?,394865002
+5899,1650,What brand is the computer?,1650000
+5900,1650,How many laptops are there?,1650001
+5901,1650,Who is wearing shorts?,1650002
+5902,1650,What type of computer is that?,1650003
+5903,1650,What is in the corner behind the man?,1650004
+5904,1650,Can the person in the picture download an iPhone app to the phone in their hand?,1650005
+5905,1650,Is the man happy?,1650006
+5906,1650,Are they technology challenged?,1650007
+5907,525940,Is the girl a young child?,525940000
+5908,525940,What is she catching?,525940001
+5909,525940,What is the person holding?,525940002
+5910,525940,What is in the air?,525940003
+5911,525940,Is the kite flying?,525940004
+5912,1653,What would he add to his outfit if it was winter?,1653000
+5913,1653,Is the sun out?,1653001
+5914,1653,What color is the water?,1653002
+5915,525942,How many shades of tile are around the edge?,525942000
+5916,525942,What is the skateboarder doing?,525942001
+5917,525942,Is the pool filled?,525942002
+5921,525947,Which of the 3 men's body look funny?,525947000
+5922,525947,How many women are wearing sunglasses?,525947001
+5923,525947,Is there a child in a backpack?,525947002
+5924,525947,What is the woman in the middle wearing around her neck?,525947003
+5929,22122,What time of year could this be?,22122000
+5930,22122,How many Zebras are there?,22122001
+5931,22122,What color is the grass in this picture?,22122002
+5932,22122,Are all the animals the same breed?,22122003
+5933,22122,What is the term used to describe how these animals are eating?,22122004
+5934,22122,Are all the animals zebras?,22122005
+5935,22122,What kind of animal is grazing?,22122006
+5936,22122,What are the giraffes eating?,22122007
+5937,132734,Is the pattern on the outside of the bowl a reflection?,132734000
+5938,132734,What is the cat sitting in?,132734001
+5939,132734,What is laying to the right of the cat?,132734002
+5940,525951,What animals are in this picture?,525951000
+5941,525951,Is the roof made from thatch?,525951001
+5942,525951,What is the giraffe looking at?,525951002
+5943,263808,Is this building a school?,263808000
+5944,263808,Does that bus have red spots on it?,263808001
+5945,263808,How many people are in the picture?,263808002
+5961,449601,"Where is the ""w""?",449601000
+5962,449601,What is she wearing on her left wrist?,449601001
+5963,449601,What is the girl holding?,449601002
+5964,1671,What is snow made of?,1671000
+5965,1671,Is it a sunny day?,1671001
+5966,1671,What are these people doing?,1671002
+5967,1671,What two are wearing matching coats?,1671003
+5968,525960,How many people are paddle boating in this picture?,525960000
+5969,525960,What is the color of the man's shirt?,525960001
+5970,525960,What are the people holding in their hands?,525960002
+5971,525960,Are they fishing?,525960003
+5972,525963,Is the legless?,525963000
+5973,525963,What type of animals are these?,525963001
+5974,525963,How many animals are in this picture?,525963002
+6035,132754,What are they cooking?,132754000
+6036,132754,Has someone already eaten dessert?,132754001
+6037,132754,Is anything on the stove?,132754002
+6038,132754,Is the television on?,132754003
+6059,132765,What technology sponsor is there?,132765000
+6060,132765,What game is being played?,132765001
+6061,132765,Is he about to serve the ball?,132765002
+6062,132765,Is this a singles or doubles match?,132765003
+6063,132765,What is the name of one company sponsoring this event?,132765004
+6064,132765,What colors are the court?,132765005
+6065,132765,Is this a clay court?,132765006
+6069,132771,Is he eating in a restaurant?,132771000
+6070,132771,Is he sleeping?,132771001
+6071,132771,What is on his head?,132771002
+6072,132771,Which hand is the man holding the doughnut with?,132771003
+6073,132772,Why is the driver's side of the bus smaller than the side with the door?,132772000
+6074,132772,What does this bus pick up?,132772001
+6075,132772,Is there a reflection?,132772002
+6076,1702,What flowers are those?,1702000
+6077,1702,How much water is in the vase?,1702001
+6078,1702,Is there a laptop in the photo?,1702002
+6079,1702,What kind of flower is in the vase?,1702003
+6080,1702,How many yellow flowers are there?,1702004
+6081,1702,Can you cross pollinate those plants?,1702005
+6082,1702,Is there a note on the vase?,1702006
+6083,1702,Do the flowers need fresh water?,1702007
+6084,1702,What is the vase resting on?,1702008
+6085,1702,What type of flower is pictured?,1702009
+6086,1702,Are there red flowers in the vase?,1702010
+6087,1702,What type of flower is in the tall vase?,1702011
+6088,1702,What color is the flower?,1702012
+6089,1702,What kind of flowers are these?,1702013
+6090,1702,Is there a fork?,1702014
+6091,1702,What material is the vase made out of?,1702015
+6092,1702,What kind of flower is this?,1702016
+6093,1702,What color is the vase?,1702017
+6094,1702,Are these flowers real?,1702018
+6095,1702,Where is the picture taken?,1702019
+6096,1702,Why are all the flowers different colors?,1702020
+6097,1702,What color are the flowers?,1702021
+6098,1702,Are the flowers real in the vase?,1702022
+6099,1702,How many vases that are green in color?,1702023
+6100,1702,What is under the vases?,1702024
+6101,1702,What is the color of the vase?,1702025
+6102,1702,Are these lilies?,1702026
+6103,1702,What type of flowers are in the vase?,1702027
+6104,525993,How many types of fruits are shown?,525993000
+6105,525993,Are they in the water?,525993001
+6106,525993,What are hanging up behind the people?,525993002
+6107,525993,What is the man wearing on his head?,525993003
+6108,525993,Are the bananas ripe?,525993004
+6109,43975,Is anyone in this photo wearing khaki pants?,43975000
+6110,43975,Are both women wearing glasses?,43975001
+6111,43975,Is the man wearing a tie?,43975002
+6112,132780,How many donuts are in the box?,132780000
+6113,132780,Where are the donuts from?,132780001
+6114,132780,Is the man happy?,132780002
+6115,132780,Are they homeless?,132780003
+6116,132780,What flavor are the cookies?,132780004
+6128,526002,What item is visible next to the man's right arm?,526002000
+6129,526002,What is the green thing on the man's head?,526002001
+6130,526002,Is the man clean shaven?,526002002
+6134,1717,How many rolls of toilet paper are there?,1717000
+6135,1717,What color is the floor?,1717001
+6136,1717,Is this toilet handicap accessible?,1717002
+6147,263865,Is the motorcycle covered in snow?,263865000
+6148,263865,What is on the back of the scooter?,263865001
+6149,263865,"Are these real vehicles, or cakes decorated to look like vehicles?",263865002
+6150,394938,What object is in the center?,394938000
+6151,394938,What color is the fire hydrant?,394938001
+6152,394938,Do the trees have leaves on them?,394938002
+6153,394938,Is the floor covered in leaves?,394938003
+6154,475790,Is the bike fancy?,475790000
+6155,475790,What is she wearing on her head?,475790001
+6156,475790,What is she sitting on?,475790002
+6157,263871,Are there people on the beach?,263871000
+6158,263871,How many surfboards are there?,263871001
+6159,263871,Can the red and white objects be used to travel to the other side of the water?,263871002
+6163,1730,Is the ball in the air?,1730000
+6164,1730,What is the total sum of the numbers shown?,1730001
+6165,1730,What color is the grass?,1730002
+6176,132809,How many people are on the motorcycle?,132809000
+6177,132809,What motorcycle brand is being promoted?,132809001
+6178,132809,Does it look expensive?,132809002
+6179,132809,How many motorcycles are in this picture?,132809003
+6180,132809,What is the pattern on the stage?,132809004
+6181,132809,What energy drink logo is on the motorcycle behind the motorcycle in the foreground?,132809005
+6202,263888,Do you see a sign on the tree?,263888000
+6203,263888,What is on the ground next to the man?,263888001
+6204,263888,How many white poles are there?,263888002
+6205,263888,What color is the newspaper dispenser?,263888003
+6206,263888,Is this a diverse group of people?,263888004
+6207,263888,IS the truck on the road?,263888005
+6208,263888,What newspaper is being sold?,263888006
+6209,263888,What color shirt is the lady wearing?,263888007
+6210,263888,Does it seem like recycling might be mandatory in this town?,263888008
+6211,263888,What kind of truck is there?,263888009
+6215,524579,What are the animals in the picture?,524579000
+6216,524579,Is this in a zoo?,524579001
+6217,524579,What is the blue object on the tree in the middle?,524579002
+6218,524579,What non-human objects are on the ground near the elephants?,524579003
+6219,394965,Does the shirt this person is wearing look warm enough for Autumn weather?,394965000
+6220,394965,What are the young people in this picture doing?,394965001
+6221,394965,Is she wearing sunglasses?,394965002
+6222,394965,Is there a shadow in the ground?,394965003
+6223,394965,Which hand is higher on the racquets?,394965004
+6224,394965,Who is holding a tennis racket?,394965005
+6225,394965,What does she have in her hair?,394965006
+6226,394965,How many yellow lines are there?,394965007
+6227,394965,Is she playing tennis?,394965008
+6228,394965,How many rackets is the woman holding?,394965009
+6229,394965,Is the girl dressed appropriately for this sport?,394965010
+6230,394965,How many orange rackets are in this picture?,394965011
+6231,394965,Is there a judge on the stand?,394965012
+6232,394965,"How many wheels are present, though they may not be seen?",394965013
+6233,394965,What is the woman carrying in her right hand?,394965014
+6234,394965,Can you see the sun?,394965015
+6235,394965,Is it dark outside?,394965016
+6236,394965,What color top is the woman wearing?,394965017
+6237,394965,What is the woman about to do?,394965018
+6238,263894,Is it sunny?,263894000
+6239,263894,Is the dog excited?,263894001
+6240,263894,Are they at a beach?,263894002
+6241,1751,What is the child holding?,1751000
+6242,1751,How many flower pots are there?,1751001
+6243,1751,Is this a girl or boy?,1751002
+6244,1751,Where are the potted plants?,1751003
+6268,263905,What is in the Bottle?,263905000
+6269,263905,Is there a bottle of wine?,263905001
+6270,263905,Is there a spoon?,263905002
+6271,263905,Is this food for lunch or dinner?,263905003
+6272,263905,Has all of the food been eaten?,263905004
+6273,263905,What is this spoon for?,263905005
+6293,437201,Is there a person under the plane?,437201000
+6294,437201,Are these White Plains?,437201001
+6295,437201,What colors are the stripes on the runways?,437201002
+6296,437201,What is the plane doing?,437201003
+6297,526056,How many people are sitting down?,526056000
+6298,526056,Do they look like father and son?,526056001
+6299,526056,What is the man in white shirt doing?,526056002
+6300,526056,Does he have a glass in his hand?,526056003
+6301,526056,Why are the boys holding Wii controls?,526056004
+6302,526056,What is the white object in the man's hand?,526056005
+6303,526056,Who is the man on the left listening to?,526056006
+6304,526056,What are these men doing?,526056007
+6305,526056,How many people are wearing glasses?,526056008
+6306,526056,What is the man holding?,526056009
+6307,526056,What activity is this man dressed for?,526056010
+6311,394986,What is the color of the lampshades?,394986000
+6312,394986,Is the TV on?,394986001
+6313,394986,What room are they in?,394986002
+6314,394986,Are the curtains opened?,394986003
+6315,394986,Is the lights on?,394986004
+6316,394986,What time is shown on the clock?,394986005
+6317,394986,Is this a girl type room?,394986006
+6318,394986,How many people are sitting in this living room?,394986007
+6319,394986,What color does the man appear to be from the light?,394986008
+6320,459047,Is this picture colorful?,459047000
+6321,459047,Where are the boy's shoes?,459047001
+6322,459047,Is the boy riding the skateboard?,459047002
+6323,459047,Is the skateboard touching the ground?,459047003
+6328,1773,What is the cat sitting on?,1773000
+6329,1773,Is this taken in a home?,1773001
+6330,1773,Is the cat solid colored?,1773002
+6331,1773,How old is the cat?,1773003
+6352,526066,What color is the awning?,526066000
+6353,526066,Where is a military truck visible?,526066001
+6354,526066,How many bicycles are there?,526066002
+6355,526066,What mode of transportation is most represented in this picture?,526066003
+6356,526066,Is there any tree in front of the building?,526066004
+6357,526066,Are there any helmets in the photo?,526066005
+6362,132852,Is this likely taken in France?,132852000
+6363,132852,What kind of building is this?,132852001
+6364,132852,How many delivery trucks are there?,132852002
+6365,132852,Was this photo taken in broad daylight?,132852003
+6366,183369,Is this indoors?,183369000
+6367,183369,Does the kite have rainbow colors?,183369001
+6368,183369,What is in the sky?,183369002
+6369,183369,What is flying in the sky?,183369003
+6370,546431,Is this a popular dish in Saudi Arabia and India?,546431000
+6371,546431,Is there any ham on the sandwiches?,546431001
+6372,546431,What is the fried food?,546431002
+6373,526076,What is the standing woman wearing?,526076000
+6374,526076,What color is the man's tie?,526076001
+6375,526076,What kind of celebration is this?,526076002
+6376,263933,Is that a wig or real hair?,263933000
+6377,263933,Are her nails painted?,263933001
+6378,263933,Is she holding 2 phones?,263933002
+6410,573506,Is there a building?,573506000
+6411,573506,How many animals in the picture?,573506001
+6412,573506,What's the probability that any of these animals are male?,573506002
+6433,526095,Is it in a city or countryside?,526095000
+6434,526095,What animal is in the field?,526095001
+6435,526095,Is the grass tall?,526095002
+6462,475793,What animal is shown?,475793000
+6463,475793,Is this giraffe looking at something?,475793001
+6464,475793,Is the giraffe in lots of high grass and foliage?,475793002
+6465,475793,Is the animal real or fake?,475793003
+6466,39341,Where is this person eating?,39341000
+6467,39341,Is this a breakfast item?,39341001
+6468,39341,What color is the cup lid?,39341002
+6469,1819,Where is the woman resting her head?,1819000
+6470,1819,Is the sky clear?,1819001
+6471,1819,Are these people likely strangers?,1819002
+6472,1819,What are looking the people?,1819003
+6477,526110,What animal are the stuffed animals?,526110000
+6478,526110,Who is the character with the Red Hat?,526110001
+6479,526110,What toys are there?,526110002
+6480,526110,Is there a stuffed penguin in the window?,526110003
+6481,526110,What is real on the dresser?,526110004
+6498,526114,Are there any chairs?,526114000
+6499,526114,What is hanging from the wall?,526114001
+6500,526114,How many appliances are visible?,526114002
+6501,526114,What kind of room is this?,526114003
+6502,506345,Is this the kitchen?,506345000
+6503,506345,Do people normally eat in this room?,506345001
+6504,506345,What is this room?,506345002
+6505,506345,What is on top of toilet?,506345003
+6510,526117,What is the number on the back of the vehicle?,526117000
+6511,526117,What type of vehicle is this?,526117001
+6512,526117,IS this picture in black and white?,526117002
+6516,395048,How many people with blue shirts?,395048000
+6517,395048,What is the man with the helmet riding?,395048001
+6518,395048,Is there any marking on the road?,395048002
+6537,240932,What is the cat sitting under?,240932000
+6538,240932,In which room did this photo take place?,240932001
+6539,240932,Are the floors carpeted?,240932002
+6551,302898,What year was the photo taken?,302898000
+6552,302898,Is this a man or a woman?,302898001
+6553,302898,What color is the man's shirt?,302898002
+6554,302898,What is this person's hand touching?,302898003
+6555,526134,What is covering the ground?,526134000
+6556,526134,Is anyone on the lift?,526134001
+6557,526134,What activity are these people participating in?,526134002
+6558,526134,Is  it cold?,526134003
+6565,1848,What color is the cup?,1848000
+6566,1848,What is the cup made out of?,1848001
+6567,1848,What is the object under the cup?,1848002
+6568,132921,How many fingers is the subject holding up?,132921000
+6569,132921,Will the man fall off his skateboard?,132921001
+6570,132921,Is there a plane is the sky?,132921002
+6582,526141,What are the predominant colors on the object?,526141000
+6583,526141,Are these vases plain?,526141001
+6584,526141,Are the 2 vases identical?,526141002
+6585,526141,Is that a flower pot?,526141003
+6595,132927,How many people are talking on their phones?,132927000
+6596,132927,Is the man to her left listening to music?,132927001
+6597,132927,How many people are holding their phones in their hands?,132927002
+6598,132927,What is the man on the left holding?,132927003
+6599,132927,Is the lady on the left wearing pants?,132927004
+6600,132927,What is the main child holding?,132927005
+6601,132927,What are the girls doing?,132927006
+6602,132927,Is the woman holding pizza?,132927007
+6603,132927,How many people are there?,132927008
+6604,132927,Is anyone wearing a tie?,132927009
+6605,132927,Is the woman on the left smiling?,132927010
+6606,132927,What color is the woman's shirt?,132927011
+6607,132927,What are the people holding in their hands?,132927012
+6608,132927,How many people are wearing earbud headphones?,132927013
+6609,132929,What is the dog sitting by?,132929000
+6610,132929,Is the dog sitting?,132929001
+6611,132929,What brand is the laptop?,132929002
+6612,526146,What transport is on the street?,526146000
+6613,526146,Is the cow eating?,526146001
+6614,526146,Is there a cow outside the building?,526146002
+6615,526146,What is the man looking at?,526146003
+6616,132932,What are the people holding?,132932000
+6617,132932,Is this photo from a sunny day?,132932001
+6618,132932,Is this Minnesota?,132932002
+6622,264008,What is on the ground?,264008000
+6623,264008,Is the door open or closed?,264008001
+6624,264008,Can you see the whole in pic?,264008002
+6625,264008,Is there a toilet?,264008003
+6629,311,What style of building is this?,311000
+6630,311,Is there a beach in the distance?,311001
+6631,311,What is the symbol on the top in the middle of this building?,311002
+6632,311,Is this a dark photo?,311003
+6633,311,What is the purpose of the tower?,311004
+6634,311,Is the image in color?,311005
+6635,311,Is this taken at night?,311006
+6636,311,What is this building used for?,311007
+6637,311,Is this photo taken in China?,311008
+6638,311,How many windows are there?,311009
+6639,311,Do you think people go to this building on Sunday?,311010
+6640,311,How many windows?,311011
+6678,262456,What type of animals are these?,262456000
+6679,262456,What is covering the ground?,262456001
+6680,262456,Are the animals grazing?,262456002
+6681,262456,What is the background?,262456003
+6682,262456,Are any of the clouds dark?,262456004
+6683,576179,What is this child getting ready to do?,576179000
+6684,576179,How many people are on the beach?,576179001
+6685,576179,What are the people carrying?,576179002
+6686,576179,What is on the beach?,576179003
+6687,576179,What color dress is the nearest woman wearing?,576179004
+6688,576179,Are they planning to fly a kite?,576179005
+6689,576179,Is he flying a kite?,576179006
+6690,576179,Which direction do the shadows go?,576179007
+6691,576179,Does the woman need help to walk?,576179008
+6692,576179,Can you see a pier in the background?,576179009
+6693,576179,Does the woman walking have long hair?,576179010
+6694,576179,Are they on a beach?,576179011
+6695,576179,What are the people doing in the background?,576179012
+6696,576179,Is this a race?,576179013
+6697,576179,What color is the object the man is holding?,576179014
+6698,576179,What sport is this?,576179015
+6699,576179,What surface is beneath the people?,576179016
+6718,74897,What is the only visible number?,74897000
+6719,74897,What number is the man in red wearing?,74897001
+6720,74897,How many non players are shown?,74897002
+6721,74897,What sport is this?,74897003
+6722,395102,Is this in a mansion?,395102000
+6723,395102,How many couches are there?,395102001
+6724,395102,Where does this family put important pieces of paper?,395102002
+6725,395102,Who is sitting in a chair?,395102003
+6726,395102,Is there a sheep indoor?,395102004
+6727,395105,Which man has a goatee?,395105000
+6728,395105,What color are the cabinets?,395105001
+6729,395105,What room are the men in the home?,395105002
+6730,395105,Where are they?,395105003
+6731,395105,Are these people eating?,395105004
+6732,395105,What color is the man's shirt on the right?,395105005
+6733,395105,Is this a normal location in which someone would take a selfie?,395105006
+6734,395105,What are the people wearing on their hand?,395105007
+6735,395105,What is wrong with this picture?,395105008
+6736,395105,What is the man holding?,395105009
+6737,395105,Where are the man's hands in this picture?,395105010
+6738,395105,What color is the cloth in the man's hand?,395105011
+6739,395105,Are these men angry?,395105012
+6740,395105,Which man is cooking?,395105013
+6741,395105,Is he in the bathroom?,395105014
+6763,395119,Is the bathtub made of brick?,395119000
+6764,395119,Is the toilet seat up?,395119001
+6765,395119,What is odd about the placement of the toilet?,395119002
+6778,511380,Is this truck on a road?,511380000
+6779,511380,What is the house made of?,511380001
+6780,511380,What is the phone number on the truck?,511380002
+6781,511380,What color is the cab of the truck?,511380003
+6782,395126,What kind of pattern is on the toilet seat cover?,395126000
+6783,395126,Have the cabinet doors been removed?,395126001
+6784,395126,Is the toilet seat up?,395126002
+6801,132989,What color is the mouse?,132989000
+6802,132989,Does this picture have a deep depth of field?,132989001
+6803,132989,What type of mouse is that?,132989002
+6804,132989,What brand is this computer monitor?,132989003
+6805,526207,How many windows are there?,526207000
+6806,526207,What kind of floor is the dog laying on?,526207001
+6807,526207,Are all of the people standing?,526207002
+6808,526207,Is the photo in color?,526207003
+6809,526207,Is the lady tired?,526207004
+6810,526207,Are they holding hands?,526207005
+6811,526207,Are the trees in this picture inside or outside?,526207006
+6812,526207,Is this a zoo?,526207007
+6813,526207,Where are the dogs?,526207008
+6817,262464,What is next to the fire hydrant?,262464000
+6818,262464,What is the wall made of?,262464001
+6819,262464,What color is the fire hydrant?,262464002
+6820,132995,What color is her dress?,132995000
+6821,132995,What is the woman holding in her right hand?,132995001
+6822,132995,Is the woman walking?,132995002
+6823,132998,How many monitors are shown?,132998000
+6824,132998,What color is the desk?,132998001
+6825,132998,How many plants on the window sill?,132998002
+6826,132998,Where is the monitor?,132998003
+6827,132998,What color are the chairs?,132998004
+6828,132998,What color is the top of the desk?,132998005
+6829,132998,Are there headphones?,132998006
+6830,526215,Are they in competition?,526215000
+6831,526215,Are they on the same team?,526215001
+6832,526215,What game is being played?,526215002
+6846,196930,Is this plane ready to depart?,196930000
+6847,196930,Where did this plane originate?,196930001
+6848,196930,Is this a propeller engine?,196930002
+6849,196930,What is the name of the airline?,196930003
+6850,196930,Do you see orange cones?,196930004
+6851,196930,Does the airplane have windows?,196930005
+6852,266300,Is he doing a handstand?,266300000
+6853,266300,Is her taking a picture?,266300001
+6854,266300,Is the man going to fall?,266300002
+6855,266300,What kind of tree is it in the background?,266300003
+6856,395152,Is the cat wearing shoes?,395152000
+6857,395152,What does the animal sitting up against?,395152001
+6858,395152,What animal is this?,395152002
+6859,395153,What kind of phone is this?,395153000
+6860,395153,What is button pressing?,395153001
+6861,395153,What brand is the phone?,395153002
+6862,395153,What kind of pants are visible?,395153003
+6863,395153,What time in on the left phone?,395153004
+6864,395153,What is the person looking at on the cell phone?,395153005
+6865,395153,What color is the phone case?,395153006
+6866,395153,What brand phone is this?,395153007
+6867,395153,What color is the person's phone?,395153008
+6890,196932,Is there a lamp?,196932000
+6891,196932,Is this a restaurant kitchen?,196932001
+6892,196932,Are these plum tomatoes?,196932002
+6899,1950,What kind of animal is gray in the image?,1950000
+6900,1950,Is the dog on a leash?,1950001
+6901,1950,What is the cat biting?,1950002
+6902,1950,What is under the dog's paw?,1950003
+6903,1950,What color is the dog?,1950004
+6904,1950,Is that water in the bowl?,1950005
+6905,1950,What color is the bowl on the ground?,1950006
+6906,1950,Is this an animal commonly seen on a leash?,1950007
+6907,1950,Who is restraining the dog?,1950008
+6908,1950,How many cats are there?,1950009
+6909,1950,What is this dog?,1950010
+6913,133024,Is that Chinese pork bun?,133024000
+6914,133024,What is the green vegetable?,133024001
+6915,133024,What utensils are shown?,133024002
+6942,1956,How old is the boy?,1956000
+6943,1956,What is the theme on the cake?,1956001
+6944,1956,What color is the table?,1956002
+6945,1956,What is the pattern of the tablecloth?,1956003
+6946,1956,What book is on top of the cake?,1956004
+6947,1956,What movie is the boy a fan of?,1956005
+6948,1956,What color is the boy's hair?,1956006
+6949,1956,Is this a birthday cake?,1956007
+6950,1959,Is the picture in focus?,1959000
+6951,1959,How many suitcases are in the picture?,1959001
+6952,1959,Where is this taken?,1959002
+6956,264107,Do either of the women have earrings?,264107000
+6957,264107,Is this a doughnut shop?,264107001
+6958,264107,Is the woman waiting on the man?,264107002
+6959,264107,How many different types of donuts?,264107003
